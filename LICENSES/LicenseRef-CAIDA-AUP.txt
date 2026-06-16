@@ -1,0 +1,22 @@
+LicenseRef-CAIDA-AUP
+
+This is a NON-AUTHORITATIVE reference placeholder, created for the UECF Proof of
+Concept so that datasets sourced from CAIDA can be expressed with a stable SPDX
+`LicenseRef-` identifier. It is NOT the license itself and is NOT legal advice.
+
+CAIDA (Center for Applied Internet Data Analysis) data is generally governed by
+the CAIDA Acceptable Use Policy (AUP), not by a standard open-source license.
+Typical obligations include:
+
+  * accepting the AUP before access to restricted datasets;
+  * acknowledging CAIDA as the data source in publications;
+  * citing the specific dataset and its DOI where provided;
+  * not re-identifying individuals and not redistributing restricted data.
+
+The authoritative, current terms are published at:
+
+    https://www.caida.org/about/legal/aup/
+    https://catalog.caida.org/
+
+Before any production or redistribution use, obtain and follow the official
+CAIDA AUP for the specific dataset in question.

@@ -1,0 +1,120 @@
+UECF Headquarter License, Version 1.0
+UECF Headquarter-Lizenz, Version 1.0
+
+SPDX short identifier: LicenseRef-UECF-Headquarter-1.0
+
+================================================================================
+0. PREAMBLE / PRÄAMBEL
+================================================================================
+
+EN: This is the "Headquarter License" of the Unified Ethical Compliance
+Framework (UECF). It is the axiomatic root layer of a three-layer licensing
+architecture (Headquarter -> Bridge -> Implementation). It does NOT replace the
+permissive or copyleft license under which the actual source code is
+distributed. Instead, it is layered ALONGSIDE a recognised SPDX license (e.g.
+Apache-2.0, MIT) and adds non-negotiable ethical obligations that are inherited
+by every Implementation License in the framework.
+
+DE: Dies ist die "Headquarter-Lizenz" des Unified Ethical Compliance Framework
+(UECF). Sie ist die axiomatische Wurzelschicht einer dreischichtigen
+Lizenzarchitektur (Headquarter -> Bridge -> Implementation). Sie ERSETZT NICHT
+die permissive oder Copyleft-Lizenz, unter der der eigentliche Quellcode
+verbreitet wird. Sie wird NEBEN einer anerkannten SPDX-Lizenz (z. B. Apache-2.0,
+MIT) angewandt und ergänzt unumstößliche ethische Pflichten, die von jeder
+Implementation-Lizenz im Framework geerbt werden.
+
+NOT LEGAL ADVICE / KEINE RECHTSBERATUNG: This document is a proof-of-concept
+artefact. Before using it in production, obtain advice from qualified legal
+counsel. The authors provide it "AS IS", without warranty of any kind.
+
+================================================================================
+1. DEFINITIONS / DEFINITIONEN
+================================================================================
+
+"Framework" - the Unified Ethical Compliance Framework (UECF).
+"Headquarter License" - this document; the root, non-negotiable layer.
+"Implementation License" - a recognised SPDX license placed UNDER this license
+    for a concrete component (e.g. Apache-2.0, MIT, EUPL-1.2).
+"Bridge" - the technical synchronisation layer (registry / oracle) that records
+    the binding between a component, its Implementation License and this
+    Headquarter License.
+"Covered Work" - any work that declares conformance with this license via an
+    SPDX expression of the form:
+        LicenseRef-UECF-Headquarter-1.0 AND <Implementation-License>
+"You" - any natural or legal person exercising permissions under this license.
+
+================================================================================
+2. AXIOMS (NON-DEROGABLE) / AXIOME (UNABDINGBAR)
+================================================================================
+
+The following axioms form the unalterable core ("unumstößliches Fundament").
+No Implementation License, contract or downstream agreement may override, waive
+or narrow them.
+
+  A1. FREEDOM OF INFORMATION / INFORMATIONSFREIHEIT
+      The complete corresponding source of every Covered Work, together with its
+      SPDX and REUSE metadata, must remain publicly retrievable. Transparency is
+      a precondition of use, not an afterthought.
+
+  A2. PEACE OBLIGATION / FRIEDENSPFLICHT
+      A Covered Work must not be used to develop, operate or materially
+      facilitate weapons, autonomous lethal systems, mass surveillance in breach
+      of fundamental rights, or any application whose primary purpose is to harm
+      human beings.
+
+  A3. ETHICS MATRIX / ETHIK-MATRIX
+      Use must be consistent with the dignity, charity ("Nächstenliebe") and
+      hope of those affected by the Covered Work. Discrimination prohibited by
+      the EU Charter of Fundamental Rights is not permitted.
+
+  A4. DSA CONFORMITY / DSA-KONFORMITÄT
+      Where a Covered Work is operated as an intermediary or platform service in
+      the scope of Regulation (EU) 2022/2065 (Digital Services Act), You must
+      provide a working Notice-and-Action mechanism and a point of contact, and
+      You must not frustrate the rights granted to recipients of the service.
+
+================================================================================
+3. GRANT OF PERMISSIONS / RECHTEEINRÄUMUNG
+================================================================================
+
+Subject to continuous compliance with the Axioms in Section 2, You are granted
+all permissions of the chosen Implementation License (copy, modify, distribute,
+sublicense within the limits of that license). This Headquarter License adds NO
+new permissions beyond the Implementation License; it only adds obligations.
+
+================================================================================
+4. INHERITANCE / VERERBUNG
+================================================================================
+
+4.1 Any redistribution or derivative of a Covered Work MUST itself be a Covered
+    Work: it must carry the same SPDX expression
+    "LicenseRef-UECF-Headquarter-1.0 AND <Implementation-License>" and remain
+    bound by the Axioms.
+
+4.2 The Implementation License may be changed only to another OSI-approved or
+    FSF-libre license that is compatible with the original Implementation
+    License. The Headquarter layer is immutable for version 1.0.
+
+================================================================================
+5. TERMINATION / BEENDIGUNG
+================================================================================
+
+5.1 Any breach of an Axiom in Section 2 automatically terminates the permissions
+    granted under Section 3 for the breaching party, with immediate effect.
+
+5.2 Rights are reinstated if the breach is cured within 30 days of the party
+    becoming aware of it, provided the Bridge registry is updated to record the
+    cure.
+
+================================================================================
+6. DISCLAIMER / HAFTUNGSAUSSCHLUSS
+================================================================================
+
+THE COVERED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE COVERED WORK. This disclaimer is in
+addition to, and does not limit, the disclaimer of the Implementation License.
+
+================================================================================
+END OF TERMS / ENDE DER BEDINGUNGEN
+================================================================================

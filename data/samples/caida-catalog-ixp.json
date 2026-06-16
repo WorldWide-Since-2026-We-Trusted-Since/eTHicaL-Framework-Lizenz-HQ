@@ -1,0 +1,63 @@
+{
+  "data": {
+    "search": {
+      "totalCount": 60,
+      "edges": [
+        {
+          "node": {
+            "id": "recipe:how_to_map_ip_to_ixp",
+            "name": "How to map an IP address to a Internet eXchange Point (IXP)"
+          }
+        },
+        {
+          "node": {
+            "id": "presentation:2024_caida_ark_ixp",
+            "name": "CAIDA Ark IXP: Active Measurement at an Internet Exchange Point"
+          }
+        },
+        {
+          "node": {
+            "id": "recipe:how_to_annotate_a_traceroute_with_ixp",
+            "name": "How to Annotate a Traceroute with IXP"
+          }
+        },
+        {
+          "node": {
+            "id": "paper:2021_ddos_never_dies_an_ixp_perspective_on_ddos_amplification_attacks",
+            "name": "DDoS Never Dies? An IXP Perspective on DDoS Amplification Attacks"
+          }
+        },
+        {
+          "node": {
+            "id": "paper:2018_t_bottger_rgate_328528921",
+            "name": "The elusive internet flattening: 10 years of IXP growth"
+          }
+        },
+        {
+          "node": {
+            "id": "paper:2017_investigating_causes_congestion_african",
+            "name": "Investigating the Causes of Congestion on the African IXP substrate"
+          }
+        },
+        {
+          "node": {
+            "id": "paper:2012_b_ager_sigcomm_163",
+            "name": "Anatomy of a large European IXP"
+          }
+        },
+        {
+          "node": {
+            "id": "paper:2019_t_bottger_arxiv_1810_10963",
+            "name": "Shaping the Internet: 10 years of IXP growth"
+          }
+        },
+        {
+          "node": {
+            "id": "paper:2018_potential_bgp_flowspec",
+            "name": "On the Potential of BGP Flowspec for DDoS Mitigation at Two Sources: ISP and IXP"
+          }
+        }
+      ]
+    }
+  }
+}

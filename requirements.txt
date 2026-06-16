@@ -1,0 +1,5 @@
+# SPDX-FileCopyrightText: 2026 EU-UNION-AI-PACT
+# SPDX-License-Identifier: LicenseRef-UECF-Headquarter-1.0 AND Apache-2.0
+jsonschema>=4.0
+reuse>=5.0
+pytest>=8.0

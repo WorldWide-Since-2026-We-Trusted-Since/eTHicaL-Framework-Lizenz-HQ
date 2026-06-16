@@ -1,0 +1,13 @@
+{
+  "uecfVersion": "1.0",
+  "component": "dataset-gleif",
+  "version": "1.0.0",
+  "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC0-1.0",
+  "implementationLicense": "CC0-1.0",
+  "sourceUrl": "https://www.gleif.org/",
+  "declarations": {
+    "prohibitedUse": false,
+    "nonDiscrimination": true,
+    "dsaNoticeAndAction": "https://www.gleif.org/en/about/contact"
+  }
+}

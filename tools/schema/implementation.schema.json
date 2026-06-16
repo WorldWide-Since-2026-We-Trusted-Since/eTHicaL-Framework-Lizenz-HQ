@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://uecf.example/schema/implementation-1.0.json",
+  "title": "UECF Implementation Manifest",
+  "description": "Declares that a concrete component is a UECF Covered Work, binding an Implementation License to the Headquarter axioms.",
+  "type": "object",
+  "required": [
+    "uecfVersion",
+    "component",
+    "version",
+    "spdxExpression",
+    "implementationLicense",
+    "sourceUrl",
+    "declarations"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "uecfVersion": { "type": "string", "const": "1.0" },
+    "component": { "type": "string", "minLength": 1 },
+    "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+" },
+    "spdxExpression": {
+      "type": "string",
+      "description": "Must contain the Headquarter LicenseRef AND a recognised implementation license.",
+      "pattern": "LicenseRef-UECF-Headquarter-1\\.0"
+    },
+    "implementationLicense": {
+      "type": "string",
+      "description": "An OSI-approved or FSF-libre SPDX identifier.",
+      "minLength": 1
+    },
+    "sourceUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "declarations": {
+      "type": "object",
+      "required": ["prohibitedUse", "nonDiscrimination", "dsaNoticeAndAction"],
+      "additionalProperties": false,
+      "properties": {
+        "prohibitedUse": {
+          "type": "boolean",
+          "description": "MUST be false: the component is NOT used for prohibited (A2) purposes."
+        },
+        "nonDiscrimination": {
+          "type": "boolean",
+          "description": "MUST be true: the component respects A3 non-discrimination."
+        },
+        "dsaNoticeAndAction": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://",
+          "description": "URL of the working Notice-and-Action endpoint (A4)."
+        }
+      }
+    },
+    "bridge": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "registry": { "type": "string", "pattern": "^0x[a-fA-F0-9]{40}$" },
+        "txHash": { "type": "string", "pattern": "^0x[a-fA-F0-9]{64}$" }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uecfVersion": "1.0",
+  "component": "dataset-purl",
+  "version": "1.0.0",
+  "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND MIT",
+  "implementationLicense": "MIT",
+  "sourceUrl": "https://github.com/package-url/purl-spec",
+  "declarations": {
+    "prohibitedUse": false,
+    "nonDiscrimination": true,
+    "dsaNoticeAndAction": "https://github.com/package-url/purl-spec/issues"
+  }
+}

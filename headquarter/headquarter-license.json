@@ -1,0 +1,37 @@
+{
+  "uecfVersion": "1.0",
+  "spdxLicenseId": "LicenseRef-UECF-Headquarter-1.0",
+  "layer": "headquarter",
+  "immutable": true,
+  "axioms": [
+    {
+      "id": "A1",
+      "title": "Freedom of Information / Informationsfreiheit",
+      "obligation": "Complete corresponding source plus SPDX/REUSE metadata must remain publicly retrievable.",
+      "machineCheck": "source-public"
+    },
+    {
+      "id": "A2",
+      "title": "Peace Obligation / Friedenspflicht",
+      "obligation": "No use for weapons, autonomous lethal systems, rights-violating mass surveillance, or applications whose primary purpose is to harm humans.",
+      "machineCheck": "no-prohibited-use-declaration"
+    },
+    {
+      "id": "A3",
+      "title": "Ethics Matrix / Ethik-Matrix",
+      "obligation": "Use must respect dignity, charity and hope; discrimination prohibited by the EU Charter is not permitted.",
+      "machineCheck": "non-discrimination-declaration"
+    },
+    {
+      "id": "A4",
+      "title": "DSA Conformity / DSA-Konformität",
+      "obligation": "Intermediary/platform services must provide a working Notice-and-Action mechanism and a point of contact.",
+      "machineCheck": "dsa-notice-and-action"
+    }
+  ],
+  "dsa": {
+    "regulation": "Regulation (EU) 2022/2065",
+    "noticeAndAction": true,
+    "pointOfContact": "european-union.europa-experte@statesflowwishes.eu"
+  }
+}

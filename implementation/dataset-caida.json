@@ -1,0 +1,13 @@
+{
+  "uecfVersion": "1.0",
+  "component": "dataset-caida",
+  "version": "1.0.0",
+  "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND LicenseRef-CAIDA-AUP",
+  "implementationLicense": "LicenseRef-CAIDA-AUP",
+  "sourceUrl": "https://catalog.caida.org/",
+  "declarations": {
+    "prohibitedUse": false,
+    "nonDiscrimination": true,
+    "dsaNoticeAndAction": "https://www.caida.org/about/legal/aup/"
+  }
+}

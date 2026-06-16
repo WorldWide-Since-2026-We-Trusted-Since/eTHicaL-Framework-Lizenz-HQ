@@ -1,0 +1,35 @@
+{
+  "_source": "GLEIF /api/v1/lei-records",
+  "_license": "CC0-1.0",
+  "_key": "LEI (Legal Entity Identifier)",
+  "_note": "Sample institutional entities resolved via the GLEIF LEI index.",
+  "entities": [
+    {
+      "lei": "549300DTUYXVMJXZNY75",
+      "legalName": "European Central Bank",
+      "jurisdiction": "DE",
+      "category": "GENERAL",
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "status": "ACTIVE"
+    },
+    {
+      "lei": "549300O6E2WAK3IAXE34",
+      "legalName": "NORGES BANK",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "country": "NO",
+      "city": "Oslo",
+      "status": "ACTIVE"
+    },
+    {
+      "lei": "ZTMSNXROF84AHWJNKQ93",
+      "legalName": "International Bank for Reconstruction and Development",
+      "jurisdiction": "XX",
+      "category": "INTERNATIONAL_ORGANIZATION",
+      "country": "US",
+      "city": "Washington",
+      "status": "ACTIVE"
+    }
+  ]
+}

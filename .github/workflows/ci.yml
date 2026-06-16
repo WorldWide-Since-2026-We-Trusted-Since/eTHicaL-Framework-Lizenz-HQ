@@ -1,0 +1,46 @@
+# SPDX-FileCopyrightText: 2026 EU-UNION-AI-PACT
+# SPDX-License-Identifier: LicenseRef-UECF-Headquarter-1.0 AND Apache-2.0
+name: UECF CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+jobs:
+  compliance:
+    name: REUSE + validator + python tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: python3 -m pip install -r requirements.txt charset-normalizer
+      - name: REUSE lint (SPDX conformance)
+        run: python3 -m reuse lint
+      - name: Data pipeline (offline, deterministic)
+        run: python3 -m ingest.pipeline --offline
+      - name: Validate all implementation manifests
+        run: |
+          for m in implementation/*.json; do
+            echo "== $m"
+            python3 tools/uecf_validate.py "$m"
+          done
+      - name: Python tests
+        run: python3 -m pytest -q
+
+  contracts:
+    name: Solidity (forge) tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Install Foundry
+        uses: foundry-rs/foundry-toolchain@v1
+      - name: Build
+        run: forge build --sizes
+      - name: Test
+        run: forge test -vvv
