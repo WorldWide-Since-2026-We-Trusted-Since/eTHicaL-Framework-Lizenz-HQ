@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://uecf.example/schema/headquarter-1.0.json",
+  "title": "UECF Headquarter License (machine-readable)",
+  "description": "Machine-readable representation of the UECF Headquarter License v1.0, used by the Bridge registry and the compliance validator.",
+  "type": "object",
+  "required": [
+    "uecfVersion",
+    "spdxLicenseId",
+    "layer",
+    "immutable",
+    "axioms",
+    "dsa"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "uecfVersion": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "spdxLicenseId": {
+      "type": "string",
+      "const": "LicenseRef-UECF-Headquarter-1.0"
+    },
+    "layer": {
+      "type": "string",
+      "const": "headquarter"
+    },
+    "immutable": {
+      "type": "boolean",
+      "const": true
+    },
+    "axioms": {
+      "type": "array",
+      "minItems": 4,
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "obligation", "machineCheck"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^A[0-9]+$" },
+          "title": { "type": "string" },
+          "obligation": { "type": "string" },
+          "machineCheck": {
+            "type": "string",
+            "description": "Identifier of the automated check that (partially) verifies this axiom.",
+            "enum": [
+              "source-public",
+              "no-prohibited-use-declaration",
+              "non-discrimination-declaration",
+              "dsa-notice-and-action"
+            ]
+          }
+        }
+      }
+    },
+    "dsa": {
+      "type": "object",
+      "required": ["regulation", "noticeAndAction", "pointOfContact"],
+      "additionalProperties": false,
+      "properties": {
+        "regulation": { "type": "string", "const": "Regulation (EU) 2022/2065" },
+        "noticeAndAction": { "type": "boolean" },
+        "pointOfContact": { "type": "string", "format": "email" }
+      }
+    }
+  }
+}

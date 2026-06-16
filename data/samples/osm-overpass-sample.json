@@ -1,0 +1,35 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "_uecf_note": "Representative dump fallback for the OSM Overpass client (tag telecom=data_center). Replaced by a live slice when the API is reachable. © OpenStreetMap contributors, ODbL-1.0.",
+  "elements": [
+    {
+      "type": "node",
+      "id": 2399903077,
+      "lat": 50.1109221,
+      "lon": 8.6821267,
+      "tags": {
+        "telecom": "data_center",
+        "name": "DE-CIX Frankfurt",
+        "operator": "DE-CIX"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3066969327,
+      "lat": 52.5170365,
+      "lon": 13.3888599,
+      "tags": {
+        "telecom": "data_center",
+        "name": "BCIX",
+        "operator": "BCIX Management GmbH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4189742111,
+      "lat": 51.5142625,
+      "lon": -0.0931
+    }
+  ]
+}

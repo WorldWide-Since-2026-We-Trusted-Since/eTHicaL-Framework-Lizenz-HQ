@@ -1,0 +1,13 @@
+{
+  "uecfVersion": "1.0",
+  "component": "dataset-osm",
+  "version": "1.0.0",
+  "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND ODbL-1.0",
+  "implementationLicense": "ODbL-1.0",
+  "sourceUrl": "https://www.openstreetmap.org/",
+  "declarations": {
+    "prohibitedUse": false,
+    "nonDiscrimination": true,
+    "dsaNoticeAndAction": "https://www.openstreetmap.org/fixthemap"
+  }
+}

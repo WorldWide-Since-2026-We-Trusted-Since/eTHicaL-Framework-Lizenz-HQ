@@ -1,0 +1,22 @@
+LicenseRef-PCH-Terms
+
+This is a NON-AUTHORITATIVE reference placeholder, created for the UECF Proof of
+Concept so that data sourced from Packet Clearing House (PCH) can be expressed
+with a stable SPDX `LicenseRef-` identifier. It is NOT the license itself and is
+NOT legal advice.
+
+Packet Clearing House (PCH) operates route servers at Internet Exchange Points
+and publishes a global IXP directory. PCH does not publish a single, standard
+SPDX open-source license for the directory data. Pending written confirmation
+from PCH, downstream use under the UECF assumes at minimum:
+
+  * attribution to Packet Clearing House as the data source;
+  * use consistent with PCH's published terms and any applicable AUP.
+
+The authoritative, current terms are published at:
+
+    https://www.pch.net/
+    https://www.pch.net/about/terms
+
+Before any production or redistribution use, confirm the applicable terms
+directly with PCH.

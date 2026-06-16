@@ -1,0 +1,13 @@
+{
+  "uecfVersion": "1.0",
+  "component": "dataset-spdx-license-list",
+  "version": "1.0.0",
+  "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC0-1.0",
+  "implementationLicense": "CC0-1.0",
+  "sourceUrl": "https://spdx.org/licenses/",
+  "declarations": {
+    "prohibitedUse": false,
+    "nonDiscrimination": true,
+    "dsaNoticeAndAction": "https://github.com/spdx/license-list-data/issues"
+  }
+}

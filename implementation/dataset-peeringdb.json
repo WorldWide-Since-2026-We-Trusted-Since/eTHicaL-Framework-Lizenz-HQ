@@ -1,0 +1,13 @@
+{
+  "uecfVersion": "1.0",
+  "component": "dataset-peeringdb",
+  "version": "1.0.0",
+  "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC-BY-4.0",
+  "implementationLicense": "CC-BY-4.0",
+  "sourceUrl": "https://www.peeringdb.com/",
+  "declarations": {
+    "prohibitedUse": false,
+    "nonDiscrimination": true,
+    "dsaNoticeAndAction": "https://www.peeringdb.com/aup"
+  }
+}

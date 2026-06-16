@@ -1,0 +1,1306 @@
+Region	Land	Stadt	IXP-Name	Teilnehmer	Gipfel	Durchschnitt	IPv6	Präfixe	Gegründet	URL
+Asia-Pacific (301)	Afghanistan	Kabul	National Internet Exchange of Afghanistan	20	920M	2.19G		1089	Jul 2018	
+Europe (448)	Albania	Tirana	Albania IX	0					2011	
+	Albania	Tirana	Albanian Neutral Internet eXchange	32	59.4G	42G		647038	2018	
+Africa (96)	Algeria	Algiers	Algeria Internet Exchange	0					2013	
+	Angola	Luanda	Ponto de Intercambio Internet Angola	0						
+	Angola	Luanda	AngolaIXP - Angola Internet Exchange Point	24	9.8T	611G		1046	17 Mar 2006	
+	Angola	Luanda	ANGONIX	38	63G	33G		29296	9 Mar 2015	
+Latin America (176)	Argentina	Bahía Blanca	CABASE IXP Bahía Blanca	10	4T	2.1T			27 Apr 2011	
+	Argentina	Bariloche	CABASE IXP Bariloche	6	4T	2.1T			15 Sep 2014	
+	Argentina	Buenos Aires	Cubecorp	0						
+	Argentina	Buenos Aires	CABASE IXP Buenos Aires	181	4T	2.1T		43314	1 Apr 1998	
+	Argentina	Buenos Aires	NAP CABASE La Matanza	0						
+	Argentina	Buenos Aires	CABASE IXP Oeste de Gran Buenos Aires	7	4T	2K			5 Jul 2016	
+	Argentina	Buenos Aires	CABASE IXP Ruteo Central	0				53718		
+	Argentina	Buenos Aires	PIT Buenos Aires - PIT Argentina	18	500G	200G			2025	
+	Argentina	Concepcion del Uruguay	CABASE IXP Concepcion del Uruguay	4						
+	Argentina	Córdoba	CABASE IXP Córdoba	26	4T	2.1T		12696	24 Apr 2012	
+	Argentina	Corrientes	NAP CABASE Corrientes	0						
+	Argentina	De La Costa	CABASE IXP De la Costa	9	4T	2.1T			29 Nov 2011	
+	Argentina	Junin	CABASE IXP Junin	8	4T	2.1T			27 Mar 2015	
+	Argentina	La Plata	CABASE IXP La Plata	20	4T	2.1T			6 Jun 2012	
+	Argentina	Mar del Plata	CABASE IXP Mar del Plata	12	4T	2.1T		4	7 Nov 2012	
+	Argentina	Mendoza	CABASE IXP Mendoza	13	4T	2.1T			20 Oct 2011	
+	Argentina	Neuquén	CABASE IXP Neuquén	26	4T	2.1T		22113	10 May 2010	
+	Argentina	Paraná	NAP CABASE Paraná	0						
+	Argentina	Pergamino	CABASE IXP Pergamino	7	4T	2.1T			25 Nov 2015	
+	Argentina	Pilar	CABASE IXP Norte de Gran Buenos Aires	13	4T	2.1T			19 Apr 2016	
+	Argentina	Posadas	CABASE IXP Posadas	20	4T	2.1T		51772	28 Nov 2013	
+	Argentina	Puerto Madryn	CABASE IXP Puerto Madryn	9	4T	2.1T			30 Oct 2014	
+	Argentina	Resistencia	CABASE IXP Resistencia	18	4T	2.1T			17 Feb 2017	
+	Argentina	Rio Gallegos	CABASE IXP RIO GALLEGOS	3	4T	2.1T			15 Nov 2016	
+	Argentina	Rosario	CABASE IXP Rosario	16	4T	2.1T		36655	31 Mar 2011	
+	Argentina	Saenz Peña	CABASE IXP Saenz Peña	11	4T	2.1T			26 Apr 2016	
+	Argentina	Salta	CABASE IXP SALTA	9	4T	2.1T			29 Jun 2016	
+	Argentina	San Juan	CABASE IXP SAN JUAN	13	4T	2.1T			26 Apr 2017	
+	Argentina	San Luis	CABASE IXP San Luis	3	4T	2.1T			10 Oct 2014	
+	Argentina	San Salvador de Jujuy	CABASE IXP Jujuy	12	4T	2.1T			22 Mar 2016	
+	Argentina	Santa Fe	CABASE IXP Santa Fe	9	4T	2.1T			22 Nov 2011	
+	Argentina	Tandil	CABASE IXP TANDIL	5	4T	2.1T			29 Dec 2016	
+	Argentina	Tucuman	CABASE IXP Tucuman	1	4T	2.1T			1 Sep 2015	
+	Argentina	Viedma	CABASE IXP VIEDMA	3	4T	2.1T			30 Mar 2016	
+Europe (448)	Armenia	Yerevan	Armenian Internet Traffic Exchange	21	70.3G	9.95G	50%	2544	2010	
+Asia-Pacific (301)	Australia	Adelaide	South Australian Internet Exchange	0					Jul 1996	
+	Australia	Adelaide	PIPE Networks Adelaide	0					Jan 2003	
+	Australia	Adelaide	IX Australia (Adelaide SA)	36	54G	32G			27 Feb 2013	
+	Australia	Adelaide	Just Another Internet Exchange	0						
+	Australia	Adelaide	Edge Internet Exchange - Adelaide	45	213G	122G	50%		2019	
+	Australia	Brisbane	AusBONE-Brisbane Internet Exchange	0					Oct 1997	
+	Australia	Brisbane	PIPE Networks Brisbane	7					May 2002	
+	Australia	Brisbane	IX Australia (Brisbane QLD)	84	220G	160G			2011	
+	Australia	Brisbane	Megaport IX Brisbane	113	72.1G	42.8G		575531	Sep 2013	
+	Australia	Brisbane	Connected IX - Australia	0						
+	Australia	Brisbane	Edge Internet Exchange - Brisbane	56	492G	282G	50%			
+	Australia	Canberra	PIPE Networks Canberra	0					Jun 2004	
+	Australia	Canberra	IX Australia ACT	10	9.6G	5G			1 Oct 2008	
+	Australia	Canberra	TransACT IX	0						
+	Australia	Darwin	Edge Internet Exchange - Darwin	6	2.92G	38.5M	50%		2019	
+	Australia	Hobart	Tasmanian Internet Exchange	4	1.1G	400M				
+	Australia	Hobart	PIPE Networks Hobart	1					Aug 2003	
+	Australia	Hobart	Edge Internet Exchange - Hobart	7	1.4T	1.25T			2019	
+	Australia	Lismore	lismore internet exchange	0						
+	Australia	Melbourne	AusBONE-Melbourne Internet Exchange	0					1997	
+	Australia	Melbourne	AUSIX	0					Jul 2001	
+	Australia	Melbourne	Melbourne NAPette	0					Apr 1999	
+	Australia	Melbourne	IX Australia (Melbourne VIC)	119	165G	87G			2011	
+	Australia	Melbourne	PIPE Networks Melbourne	0					Jul 2003	
+	Australia	Melbourne	AUSIX.net	0					2002	
+	Australia	Melbourne	Megaport IX Melbourne	148	204G	145G		838837	Sep 2013	
+	Australia	Melbourne	Equinix Internet Exchange Melbourne	58	174G	65.5G		852795		
+	Australia	Melbourne	Edge Internet Exchange - Melbourne	74	633G	399G	50%	505407		
+	Australia	Perth	IX Australia (Perth WA)	94	86G	35.9G		948638	1997	
+	Australia	Perth	Megaport IX Perth	68	21.8G	15.9G		808080	2013	
+	Australia	Perth	Edge Internet Exchange - Perth	80	264G	178G	50%	456427		
+	Australia	Perth	Equinix Internet Exchange Perth	29	9.27G	4.47G		496823		
+	Australia	Sydney	AusBONE-Sydney Internet Exchange	0					Oct 1997	
+	Australia	Sydney	Pihana Sydney	0						
+	Australia	Sydney	Equinix Internet Exchange Sydney	238	4.44T	2.74T		1240547	2003	
+	Australia	Sydney	PIPE Networks Sydney	0					Jan 2003	
+	Australia	Sydney	IX Australia (Sydney NSW)	224	551G	380G		1144973	2013	
+	Australia	Sydney	Pacific-IX	0					16 Feb 2011	
+	Australia	Sydney	Megaport IX Sydney	270	419G	313G		1119209	Sep 2013	
+	Australia	Sydney	Edge Internet Exchange - Sydney	163	2.34T	1.33T	50%	511581		
+Europe (448)	Austria	Graz	Grazer Internet Exchange	14	36.4M				4 Mar 2010	
+	Austria	Innsbruck	Tirol-IX	13						
+	Austria	Klagenfurt	Alpes Adria Internet Exchange	22	609M	237M		5030	2010	
+	Austria	Salzburg	Salzburg Internet eXchange	33	1.47G	724M		2974	15 May 2015	
+	Austria	Vienna	Vienna Internet Exchange	185	1.13T	854G	6.15%	1533291	Apr 1996	
+	Austria	Vienna	Community-IX Vienna	0						
+	Azerbaijan	Baku	Azerbaijan Internet exchange	0					2013	
+Latin America (176)	Bahamas	Nassau	Ninja-IX Bahamas	0						
+Europe (448)	Bahrain	Manama	Gateway Gulf Internet Exchange Bahrain	0				24	1 Apr 2009	
+	Bahrain	Manama	Bahrain Internet Exchange	0					13 Aug 2003	
+	Bahrain	Manama	Manama-IX	26	236G	190G		12028	2019	
+Asia-Pacific (301)	Bangladesh	Dhaka	Bangladesh Internet Exchange	150	573G	569G		31610	26 Aug 2004	
+	Bangladesh	Dhaka	Bangladesh Society of Internet Exchange	0					May 2004	
+	Bangladesh	Dhaka	aamra Internet Exchange	35						
+	Bangladesh	Dhaka	DCIX	0					1 Jan 2012	
+	Bangladesh	Dhaka	Internet Service Providers Association of Bangladesh	243	1.95T	218G		16212	2021	
+	Bangladesh	Dhaka	Kloud Technologies National Internet Exchange	0						
+	Bangladesh	Noakhali	Noakhali Internet Exchange	3					2019	
+Latin America (176)	Barbados	Bridgetown	Barbados Internet Exchange	0					2015	
+Europe (448)	Belarus	Minsk	Belarus National Internet Exchange Point	9					2020	
+	Belgium	Brussels	Belgian National Internet Exchange	81	402G	257G		724890	1995	
+	Belgium	Brussels	Free Belgian Internet Exchange	0					4 Sep 2003	
+	Belgium	Brussels	Belgium Internet Exchange	29					2019	
+Latin America (176)	Belize	Belize City	Belize Internet Exchange Point	9	44.4M	44.3M		86	27 Apr 2016	
+Africa (96)	Benin	Cotonou	Benin IX	5	967M	621M		153	Dec 2013	
+Asia-Pacific (301)	Bhutan	Thimphu	Bhutan Internet Exchange	20	41.3G	29.7G	50%	472063	7 Dec 2017	
+Latin America (176)	Bolivia	La Paz	IXP MegaLink	5				228	1 Nov 2013	
+	Bolivia	La Paz	Punto de Intercambio de Trafico de Bolivia	21	179G	108G	50%	3988	13 Nov 2013	
+Europe (448)	Bosnia and Herzegovina	Sarajevo	Bosnia and Herzegovina Neutral Internet Exchange	10	10.9G	4.74G		650	2018	
+Africa (96)	Botswana	Gaborone	Botswana Internet Exchange	0				277	Oct 2005	
+Latin America (176)	Brazil	Americana	Ponto de Troca de Trafego do Americana	0					20 Dec 2010	
+	Brazil	Aracaju	IX.br (PTT.br) Aracaju	0		8.8G			May 2017	
+	Brazil	Belém	IX.br (PTT.br) Belém	0		12.4G			2011	
+	Brazil	Belo Horizonte	IX.br (PTT.br) Belo Horizonte	0		160G			2006	
+	Brazil	Blumenau	FURB Internet Exchange	3	1.86G	700M			1 Sep 2018	
+	Brazil	Boa Vista	IX.br (PTT.br) Boa Vista	0		156M			Aug 2021	
+	Brazil	Brasília	IX.br (PTT.br) Brasília	0		490G			2004	
+	Brazil	Campina Grande	IX.br (PTT.br) Campina Grande	0		33.3G			2010	
+	Brazil	Campinas	IX.br (PTT.br) Campinas	0		24.9G			2009	
+	Brazil	Campo Gande	IX.br (PTT.br) Campo Grande	0		11.6G			Mar 2020	
+	Brazil	Caruaru	IX.br (PTT.br) Caruaru	0		347M			Oct 2024	
+	Brazil	Cascavel	IX.br (PTT.br) Cascavel	0		6.18G			Jan 2020	
+	Brazil	Caxias do Sul	IX.br (PTT.br) Caxias do Sul	0		7.97G			2011	
+	Brazil	Cuiabá	IX.br (PTT.br) Cuiabá	0		22.4G			Mar 2014	
+	Brazil	Curitiba	IX.br (PTT.br) Curitiba	0		260G			2005	
+	Brazil	Feira De Santana	IX.br (PTT.br) Feira de Santana	0		16.6G			Oct 2024	
+	Brazil	Florianópolis	IX.br (PTT.br) Florianópolis	142	127G	79.1G			2008	
+	Brazil	Fortaleza	IX.br (PTT.br) Fortaleza	0		3.56T			2008	
+	Brazil	Foz do Iguaçu	IX.br (PTT.br) Foz do Iguaçu	0		2.41G			Apr 2016	
+	Brazil	Goiânia	IX.br (PTT.br) Goiânia	0		22G			2010	
+	Brazil	João Pessoa	IX.br (PTT.br) João Pessoa	0		12.3G			Oct 2017	
+	Brazil	Lajeado	IX.br (PTT.br) Lajeado	0		18.1G			2013	
+	Brazil	Londrina	IX.br (PTT.br) Londrina	0		23.2G			2008	
+	Brazil	Maceió	IX.br (PTT.br) Maceió	0		10.2G			Jun 2018	
+	Brazil	Manaus	IX.br (PTT.br) Manaus	0		89.4G			2012	
+	Brazil	Maringá	IX.br (PTT.br) Maringá	0		11.3G			2013	
+	Brazil	Natal	IX.br (PTT.br) Natal	0		14.7G			2011	
+	Brazil	Palmas	IX.br (PTT.br) Palmas	0		2.23G			Nov 2021	
+	Brazil	Paraná	Ponto de Troca de Tráfego do Paraná	0					Jun 2002	
+	Brazil	Ponta Grossa	UEPG Internet Exchange	19	2G	1.09G	50%	665	1 Sep 2019	
+	Brazil	Porto Alegre	Rio Grande do Sul Internet Exchange	0					20 Nov 2000	
+	Brazil	Porto Alegre	IX.br (PTT.br) Porto Alegre	0		608G			2005	
+	Brazil	Porto Velho	IX.br (PTT.br) Porto Velho	0		3.3G			Sep 2024	
+	Brazil	Recife	IX.br (PTT.br) Recife	0		165G			2009	
+	Brazil	Ribeirão Preto	IX.br (PTT.br) Ribeirão Preto	0		78M			Oct 2025	
+	Brazil	Rio Branco	IX.br (PTT.br) Rio Branco	0		952M			Apr 2023	
+	Brazil	Rio de Janeiro	Optiglobe Internet Exchange - Latin America	0						
+	Brazil	Rio de Janeiro	IX.br (PTT.br) Rio de Janeiro	0		2.57T			2004	
+	Brazil	Rio de Janeiro	Equinix Internet Exchange Rio de Janeiro	27	43.5G	21.8G				
+	Brazil	Salvador	IX.br (PTT.br) Salvador	0		232G			2007	
+	Brazil	Santa Maria	IX.br (PTT.br) Santa Maria	0		4.69G			Aug 2017	
+	Brazil	São Carlos	Ponto de Troca de Trafego do Central Paulista	0					Oct 2013	
+	Brazil	São José do Rio Preto	IX.br (PTT.br) São José do Rio Preto	0		10.3G			2012	
+	Brazil	São José dos Campos	Ponto de Troca de Trafego do São José dos Campos	14	5.56G	192M			2011	
+	Brazil	São Luís	IX.br (PTT.br) São Luís	0		12.5G			Jan 2018	
+	Brazil	São Paulo	Daedalus	0						
+	Brazil	São Paulo	Diveo NAP	0						
+	Brazil	São Paulo	NAP Abranet (Not an exchange)	0						
+	Brazil	São Paulo	Tivit	0						
+	Brazil	São Paulo	Equinix Internet Exchange São Paulo	183	1.37T	791G			1998	
+	Brazil	São Paulo	IX.br (PTT.br) São Paulo	1853		15.5T		1133126	2004	
+	Brazil	São Paulo	Telcomp	0					2003	
+	Brazil	São Paulo	An Academic Network at Sao Paulo	0						
+	Brazil	Teresina	IX.br (PTT.br) Teresina	0		9.62G			Jan 2018	
+	Brazil	Vitória	IX.br (PTT.br) Vitória	0		26.1G			2011	
+	British Virgin Islands	Road Town	British Virgin Islands Internet Exchange Point	8	108K	58K	50%	546	3 Oct 2022	
+Asia-Pacific (301)	Brunei Darussalam	Brunei	Borneo Internet Exchange	11	5G			1236	4 Feb 2021	
+Europe (448)	Bulgaria	Sofia	GoCIS	0						
+	Bulgaria	Sofia	Sofia Internet Exchange	0						
+	Bulgaria	Sofia	Bulgarian Internet eXchange	137	1.08T	900G		879816	1 Aug 2009	
+	Bulgaria	Sofia	Balkan Internet Exchange	84	186G	117G			2010	
+	Bulgaria	Sofia	NetIX	190	4.29T	3.23T		122	1 Jan 2013	
+	Bulgaria	Sofia	T-CIX	20				122	18 May 2015	
+	Bulgaria	Sofia	Megaport MegaIX Sofia	22	11G	6G		530485	Jun 2016	
+	Bulgaria	Varna	Varna Internet Exchange	28	13.6G	10G			2019	
+Africa (96)	Burkina Faso	Bobo-Dioulasso	Burkina Faso Internet Exchange Point (BFIX) Bobo	7	120M	42.5M	50%	80	10 Jan 2021	
+	Burkina Faso	Ouagadougou	Burkina Faso Internet Exchange Point (BFIX) Ouaga	17	104G	46.6G	50%	2106	26 Jun 2015	
+	Burundi	Bujumbura	BurundiX Internet Exchange Point	0					21 Mar 2014	
+	Burundi	Bujumbura	Burundi Internet Exchange Point	10	3.03G	2.01G		181	29 Sep 2017	
+Asia-Pacific (301)	Cambodia	Phnom Penh	Finder Internet Exchange	0					Jun 2003	
+	Cambodia	Phnom Penh	HTN-Cambodia Internet Exchange	0					2013	
+	Cambodia	Phnom Penh	Cambodian Network Exchange	55	60G	45G		1013619	1 Dec 2008	
+	Cambodia	Phnom Penh	MekongIX	3					2020	
+Africa (96)	Cameroon	Douala	Cameroon Internet Exchange Point - Douala	10	103G	65.2G		3060	2018	
+	Cameroon	Douala	Douala Internet Exchange	9	168K	36K	50%		10 Dec 2021	
+	Cameroon	Yaoundé	Cameroon Internet Exchange Point - Yaoundé	4	6.51M				24 Jan 2014	
+North America (284)	Canada	Calgary	YYCIX Calgary Internet Exchange	99	250G	122G		755942	21 Nov 2012	
+	Canada	Calgary	AlbertaIX	0					23 Jan 2014	
+	Canada	Charlottetown	Atlantic IXP- PEIX	3						
+	Canada	Edmonton	Edmonton Internet Exchange	0						
+	Canada	Edmonton	YEGIX Edmonton Internet Exchange	16	495M	111M			30 Jan 2015	
+	Canada	Halifax	Atlantic IXP- HFXIX	24				753230	1 May 2015	
+	Canada	Iqaluit	Iqaluit Internet Exchange	0						
+	Canada	Moncton	Atlantic IXP- MonctonIX	11				990579	22 Jan 2018	
+	Canada	Montreal	Quebec Internet Exchange/RISQ	0						
+	Canada	Montreal	Peer1 Internet Exchange - Montreal	0					2010	
+	Canada	Montreal	CANIX Internet Exchange - Montreal	91	541G	322G		776318	Jan 2013	
+	Canada	Montreal	Equinix Internet Exchange Montreal	4	268K	12K				
+	Canada	Ottawa	Ottawa Internet Exchange	0				394	10 Apr 2001	
+	Canada	Ottawa	CANIX Internet Exchange - Ottawa	17	453M	244M		990479	2020	
+	Canada	Quebec	CANIX Internet Exchange - Quebec	6	405M	23.2M				
+	Canada	Saint John	Atlantic IXP- SJIX	6					1 Sep 2018	
+	Canada	Saskatoon	YXEIX Saskatoon Internet Exchange	25	11.5G	6.38G		413596	7 Jun 2017	
+	Canada	St. John's	Newfoundland Labrador Internet Exchange	0						
+	Canada	Toronto	CANIX	0						
+	Canada	Toronto	Toronto Internet Exchange	284	2.86T	1.99T		776681	24 Jul 1998	
+	Canada	Toronto	Peer1 Internet Exchange - Toronto	0					2008	
+	Canada	Toronto	Greater Toronto International Internet Exchange	0					Jun 2011	
+	Canada	Toronto	Equinix Internet Exchange Toronto	17	2.32G	2.25G		505072	1 May 2010	
+	Canada	Toronto	Megaport Toronto	16	4.75G	3.06G		382595	2015	
+	Canada	Toronto	Ontario Internet Exchange	179	103G	65.2G		526510	27 Dec 2022	
+	Canada	Toronto	CANIX Internet Exchange - Toronto	7	19.5G	14.2G				
+	Canada	Vancouver	British Columbia Internet Exchange	0						
+	Canada	Vancouver	Peer1 Internet Exchange - Vancouver	0					2008	
+	Canada	Vancouver	Vancouver Internet Exchange	72	345G	250G			30 Nov 2013	
+	Canada	Vancouver	UNMETERED Exchange	125	50G			389870	2018	
+	Canada	Vancouver	CloudSingularity Internet Exchange	16	103G	65.2G		278738	2020	
+	Canada	Vancouver	CANIX Internet Exchange - Vancouver	0						
+	Canada	Waterloo	Waterloo Internet Exchange	0						
+	Canada	Whitehorse	Whitehorse Internet Exchange	0						
+	Canada	Winnipeg	Manitoba Internet Exchange	28	1.63T	18.9G		575771	29 Jul 2013	
+	Canada	Winnipeg	Winnipeg Internet Exchange	25				76	May 2013	
+	Canada	Winnipeg	CANIX Internet Exchange - Winnipeg	0						
+	Canada	Yellowknife	Yellowknife Internet Exchange	0						
+Africa (96)	Cape Verde	Praia	Associação Cabo Verde Internet Exchange Point	5					29 Nov 2022	
+	Chad	N'Djamena	N'Djamena Internet Exchange Point 	16	52K	33K		212	1 Feb 2023	
+Latin America (176)	Chile	Arica	PIT Chile Arica	0				18854	2018	
+	Chile	Concepcion	PITChile Concepcion	11					5 Jan 2018	
+	Chile	Osorno	PIT Chile Osorno	0						
+	Chile	Punta Arenas	Patagonia IX	2	39.2M	4.34M			28 Feb 2025	
+	Chile	Santiago	NAP Chile	21					Sep 1997	
+	Chile	Santiago	PIT Chile - Santiago	174	7.6T	7.27T		1108266	1 Jul 2016	
+	Chile	Santiago	Santiago Internet Exchange	11					28 Oct 2016	
+	Chile	Santiago de Chile	Chile Network Access Point	0						
+	Chile	Temuco	PIT Chile Temuco	5	1.06G	30G				
+Asia-Pacific (301)	China	Beijing	Beijing National Internet Exchange Center	0					Apr 2000	
+	China	Beijing	TerreNAP Beijing	0						
+	China	Beijing	CNC Beijing NAP	0					2008	
+	China	Beijing	CHN-IX Beijing	7					1 Dec 2015	
+	China	Beijing	CNIX China Internet Exchange	20					Mar 2015	
+	China	Beijing	CN-IX Beijing	0						
+	China	Guangzhou	CN-IX Guangzhou	0						
+	China	Guangzhou	CHN-IX Guangzhou	0						
+	China	Guangzhou	Yajuu Senpai Internet eXchange	0						
+	China	Hangzhou	National (Hangzhou) Novel Internet Exchange Point	10	9.22T	7.26T			Jun 2020	
+	China	Hong Kong	Hong Kong Academic Internet Exchange	0						
+	China	Hong Kong	Hong Kong Internet Exchange	307	3.21T	1.83T		1277650	Apr 1995	
+	China	Hong Kong	Level3	0						
+	China	Hong Kong	Pihana Hong Kong	0						
+	China	Hong Kong	Equinix Internet Exchange Hong Kong	232	4.21T	2.78T		1568389	2009	
+	China	Hong Kong	AMS-IX Hong Kong	57	80.2G	22.1G		372685	1 Apr 2012	
+	China	Hong Kong	BroadBand Internet eXchange Hong Kong	98	987G	677G		780987	1 Oct 2014	
+	China	Hong Kong	Megaport Hong Kong	7	180M	102M				
+	China	Hong Kong	iAdvantage Internet Exchange	8						
+	China	Shanghai	Asia Pacific Internet Exchange	0						
+	China	Shanghai	Shanghai City Exchange	0						
+	China	Shanghai	Shanghai Internet Exchange	0					Dec 2000	
+	China	Shanghai	CN-IX Shanghai	0						
+	China	Shanghai	CHN-IX Shanghai	0						
+	China	Shanghai	Equinix Internet Exchange Shanghai	0						
+	China	Shanghai	National (Shanghai) New-Type Internet Exchange Point	19	1.24T	994G			20 Dec 2021	
+	China	Shenzhen	China (Qianhai) Internet Exchange	61	1.71T	1.3T			14 Apr 2021	
+	China	Zhuhai	IXPMOE Internet Exchange Point	0						
+Latin America (176)	Colombia	Barranquilla	PIT Colombia - Barranquilla	8						
+	Colombia	Bogotá	NAP Colombia	24					29 Jun 2000	
+	Colombia	Bogota	Equinix Internet Exchange Bogota	45	276G	142G			Mar 2008	
+	Colombia	Bogota	IXP del Caribe	0						
+	Colombia	Bogota	PIT Colombia - Bogota	67				823188		
+	Colombia	Cali	PIT Colombia - Cali	12						
+	Colombia	Medellin	PIT Colombia - Medellin	11						
+	Costa Rica	San Jose	Costa Rica Neutral Internet Exchange Point	60	1.64T	831G	50%	22191	29 Apr 2014	
+	Costa Rica	San Jose	IXP Infocom Costa Rica	8					Jun 2019	
+Africa (96)	Cote D'Ivoire	Abidjan	Côte d'Ivoire Internet Exchange Point	0					2006	
+	Cote D'Ivoire	Abidjan	Côte d'Ivoire Internet Exchange Point	15	14G	12G		1296	Jul 2013	
+Europe (448)	Croatia	Rijeka	Udruga ADRIA-IX	0						
+	Croatia	Zagreb	Croatian Internet Exchange	46	386G	245G	50%	761780	2000	
+Latin America (176)	Cuba	Havana	NAP de Cuba	0					Jun 2001	
+	Curaçao	Willemstad	AMS-IX Caribbean	12	9.66G	2G			20 Apr 2009	
+Europe (448)	Cyprus	Lefkosia	Cyprus Internet Exchange	3	10M				1999	
+	Czech Republic	Brno	Brno Internet Exchange Point	8	75G					
+	Czech Republic	Brno	Commercial Brno Internet Exchange	0					12 May 2007	
+	Czech Republic	Prague	NIX.CZ - Neutral Internet eXchange for the Czech Republic	272	2.45T	1.29T			31 Aug 1996	
+	Czech Republic	Prague	Neutral czFree eXchange	12	194G	143G			Sep 2007	
+	Czech Republic	Prague	Peering.cz	209	4.1T	3.6T		1254793	17 Oct 2012	
+Africa (96)	Democratic Republic of Congo	Goma	Goma Internet Exchange	8	43.9G	24.1G			17 Sep 2021	
+	Democratic Republic of Congo	Kinshasa	Kinshasa Internet Exchange	18	143G	94.4G		1865	1 Nov 2012	
+	Democratic Republic of Congo	Lubumbashi	Lubumbashi Internet Exchange	10	70.4G	66G		443	25 Oct 2019	
+Europe (448)	Denmark	Copenhagen	Danish Internet Exchange	29	32.2G	18G			May 1994	
+	Denmark	Copenhagen	Copenhagen Internet Exchange	0						
+	Denmark	Copenhagen	Netnod Copenhagen	50	468G	320G			May 2014	
+	Denmark	Copenhagen	Content-IX	0					Feb 2012	
+	Denmark	Copenhagen	STHIX - Copenhagen	20	659G	418G	50%		15 Sep 2017	
+Africa (96)	Djibouti	Djibouti City	AMS-IX Djibouti	20	32.1G	15G		770357	1 May 2016	
+Latin America (176)	Dominica	Roseau	Dominica National Internet Exchange Point	6	43.1M	21.3M		52	27 Feb 2013	
+	Dominican Republic	Santiago de los Caballeros	Santiago Internet Exchange	24	66.2G	39.1G	50%	1250	2 Jan 2023	
+	Dominican Republic	Santiago de los Caballeros	Punto de Intercambio de Trafico Dominicano	39	1.64T	871G	50%			
+	Dominican Republic	Santo Domingo	NAP del Caribe	15					Jul 2008	
+	Dominican Republic	Santo Domingo	Internet Traffic Exchange Point of the Dominican Republic	3	3.42M	334K			15 Sep 2020	
+	Ecuador	Guayaquil	NAP Ecuador - Guayaquil	13	253G	123G			2003	
+	Ecuador	Guayaquil	IXP Ecuador	9	964M	622M		3541	Jul 2017	
+	Ecuador	Guayaquil	PIT Ecuador - Guayaquil	0						
+	Ecuador	Manta	IXP Ecuador - Manta	0						
+	Ecuador	Pasaje	IXP APROSVA PASAJE	7					23 Nov 2017	
+	Ecuador	Quito	NAP Ecuador - Quito	19	99.2G	31G			2003	
+	Ecuador	Quito	PIT Ecuador - Quito	12					Mar 2024	
+	Ecuador	Quito	PIT Zero Latitude - IXEcuador	5					Nov 2025	
+Africa (96)	Egypt	Cairo	Cairo Internet Exchange	7	31.1G	15.4G		2209	May 2002	
+	Egypt	Cairo	Cairo Regional Internet Exchange	0					May 2002	
+	Egypt	Cairo	Middle East Internet eXchange	10	15K				May 2007	
+	Egypt	Cairo	Egypt Internet Exchange	29	626G	398G			1 Apr 2022	
+	Egypt	Cairo	Pyramids Internet Exchange	48						
+Latin America (176)	El Salvador	San Salvador	IXP de El Salvador	6	142M	29.9M			9 Sep 2021	
+Europe (448)	Estonia	Tallinn	Tallinn Internet Exchange (TIX)	13	258M	122M				
+	Estonia	Tallinn	Tallinn Internet Exchange (TLLIX)	6	2.2G	231M			Nov 2005	
+	Estonia	Tallinn	Tallinn Governmental Internet Exchange	48	40G	23G		825110	Jul 2009	
+	Estonia	Tallinn	PITER-IX Tallinn	137	6.96G	10.4G				
+	Estonia	Tallinn	I Internet Exchange	8					8 Feb 2022	
+Africa (96)	Ethiopia	Addis Ababa	Addis Ababa Internet Exchange Point	3						
+Asia-Pacific (301)	Fiji	Suva	Fiji Internet Exchange Point	7					2017	
+Europe (448)	Finland	Espoo	Finnish Communication and Internet Exchange Espoo	37	69.6G	41.2G			1993	
+	Finland	Helsinki	Finnish Communication and Internet Exchange Helsinki	59	368G	178G			1993	
+	Finland	Helsinki	Equinix Internet Exchange Helsinki	18	13G	7.42G				
+	Finland	Helsinki	STHIX - Helsinki	0						
+	Finland	Helsinki	PITER-IX Helsinki	199						
+	Finland	Helsinki	Netnod Helsinki	16	116G	44.3G			8 Mar 2022	
+	Finland	Oulu	Finnish Communication and Internet Exchange Oulu	13	3.29G	2.31G			Mar 2008	
+	Finland	Tampere	Tampere Region Exchange	27	7.77G	3G		19745	3 Aug 2003	
+	France	Annecy	AnnecIX	0						
+	France	Brest	Brest IX	0						
+	France	Cayenne	Guyanix	9					1 Oct 2013	
+	France	Clermont-Ferrand	AuvernIX	15	3.25G	140M			30 Oct 2012	
+	France	Grenoble	GrenoblIX	8					2013	
+	France	Lille	Lillix	43	18G	14G			27 Jun 2014	
+	France	Lille	France-IX Lille	20	2.75G	1.59G			May 2022	
+	France	Lyon	Lyon Internet Exchange	0				1311344	1 Jun 2010	
+	France	Lyon	France-IX Lyon	94	151G	50.8G				
+	France	Mamoudzou	Mayotte Internet Exchange	0						
+	France	Marseille	Marseille Internet Exchange	0					2005	
+	France	Marseille	France-IX Marseille	125	652G	500G		644599	2011	
+	France	Marseille	DE-CIX Marseille	118	392G	191G		521797	Sep 2015	
+	France	Nantes	Ouest IX	10					2 Apr 2014	
+	France	Nice	NicIX - Alpes-Maritimes	0					19 Jun 2014	
+	France	Paris	Free-IX	0					2000	
+	France	Paris	Metropolitan Area Ethernet-Paris	0						
+	France	Paris	Mix Internet Exchange and Transit	0					1999	
+	France	Paris	Paris Internet Exchange	0						
+	France	Paris	Paris Internet Exchange Service	0						
+	France	Paris	PARIX	0					2001	
+	France	Paris	Service for French Internet Exchange	75	249K	8G		10102	1995	
+	France	Paris	Paris NAP	0					Jul 2005	
+	France	Paris	Paris Operators for Universal Internet eXchange	0						
+	France	Paris	French National Internet Exchange IPv6	16					1 Nov 2002	
+	France	Paris	Gigabit European Internet eXchange	0						
+	France	Paris	Equinix Internet Exchange Paris	237	412G	236G		86	2008	
+	France	Paris	France-IX Paris	570	2.97T	2.04T		1290979	Nov 2010	
+	France	Paris	FR-IX 75	18					5 May 2010	
+	France	Paris	Hopus	58	200G	160G			Jan 2014	
+	France	Paris	Nine IX	130	244G	148K				
+	France	Paris	Nine IX	0						
+	France	Pau	BéarnIX	15					1 Jun 2020	
+	France	Rennes	BreizhIX	24	455M	122M			2017	
+	France	Saint Etienne	The Saint-Etienne Internet eXchange Point	0					Jan 2011	
+	France	Saint-Denis	Réunion Internet Exchange	10					Feb 2006	
+	France	Saint-Etienne	PhibIX Gix & Nap	0					2008	
+	France	Strasbourg	EuroGIX	129	348M				4 Mar 2002	
+	France	Toulouse	TouIX	15					16 Apr 2009	
+	France	Toulouse	France-IX Toulouse	9	7.12G	3.78G			Nov 2021	
+	France	Valence	The Ardèche and Drôme Internet eXchange Point 	0					2012	
+Africa (96)	Gabon	Libreville	Gabon Internet Exchange	8	64.1M	5.32M		22	2014	
+	Gambia	Serekunda	Serekunda Internet Exchange Point	7	501M			42	25 Jul 2013	
+Europe (448)	Georgia	Kutaisi	Internet Exchange Association of Georgia-Kutaisi	18	1.73G	758M			1 Jan 2020	
+	Georgia	Tbilisi	Georgian Internet Exchange Point	16	63K	27K			28 Sep 2016	
+	Georgia	Tbilisi	Internet Exchange Association of Georgia-Tbilisi	18	6.03G	2.84G	73.3%		1 Jan 2020	
+	Germany	Berlin	Berlin Commercial Internet Exchange	149	900G	599G		1260544	6 Sep 2002	
+	Germany	Berlin	Megaport Berlin IX	46	36G	27G		682360	2003	
+	Germany	Berlin	Community-IX	45	177G	154G			2016	
+	Germany	Bremen	Bremen Internet Exchange	6					2013	
+	Germany	Bremen	Central Internet Exchange	3						
+	Germany	Darmstadt	Metropolitan Area Network Darmstadt	0						
+	Germany	Dortmund	Dortmund Internet exchange	13	34.4G	9.41G		6982	1 Sep 2013	
+	Germany	Dresden	Dresden Internet Exchange	13	933M	516M		74679	28 Nov 2024	
+	Germany	Düsseldorf	Megaport Dusseldorf IX	108	227G	108G		1038289	2003	
+	Germany	Düsseldorf	OpenCarrier e.G. Member IX Dusseldorf	21					Sep 2006	
+	Germany	Düsseldorf	DE-CIX Dusseldorf	227	280G	106G		1128492	2011	
+	Germany	Düsseldorf	Local Internet Exchange Düsseldorf	214	103G	65.2G			2019	
+	Germany	Düsseldorf	Securebit Internet Exchange Dusseldorf	47					Jul 2023	
+	Germany	Frankfurt	DE-CIX Frankfurt	1080	18.7T	15T		4172913	May 1995	
+	Germany	Frankfurt	MAE-Frankfurt	0						
+	Germany	Frankfurt	XchangePoint Frankfurt IPP	0						
+	Germany	Frankfurt	KleyReX Internet Exchange	475	16.8G	7.47G			Sep 2002	
+	Germany	Frankfurt	Frankfurt Network Access Point	0					1 Oct 2003	
+	Germany	Frankfurt	Megaport Frankfurt IX	119	881G	796G		1354093	8 Apr 2013	
+	Germany	Frankfurt	OpenCarrier eG Member IX Frankfurt	23					May 2007	
+	Germany	Frankfurt	Equinix Internet Exchange Frankfurt	97	135G	89.3G			2018	
+	Germany	Frankfurt	Local Internet Exchange Frankfurt	222	103G	65.2G		465201	2018	
+	Germany	Frankfurt	Staclar Internet Exchange	9				148203	Aug 2020	
+	Germany	Frankfurt	FogIXP Frankfurt regional IXP	44					2022	
+	Germany	Frankfurt	Securebit Internet Exchange Frankfurt	31						
+	Germany	Hamburg	Internet Exchange Hamburg	0					Oct 2000	
+	Germany	Hamburg	XchangePoint Hamburg IPP	0					Apr 2003	
+	Germany	Hamburg	DE-CIX Hamburg	198	179G	112G		1135368	2007	
+	Germany	Hamburg	Hansestadt Hamburg Commercial Internet Exchange	0					17 Jan 2003	
+	Germany	Hamburg	Megaport Hamburg IX	61	80.8G	49.6G		1016227	21 Jan 2009	
+	Germany	Karlsruhe	Baden-Württemberg Internet Exchange	6					2016	
+	Germany	Leipzig	European Commercial Internet Exchange Leipzig	0						
+	Germany	Munich	Megaport Munich IX	38	19.1G	12.2G		1022468	Jun 1994	
+	Germany	Munich	Munich Commercial Internet Exchange	0						
+	Germany	Munich	DE-CIX Munich	207	418G	159G		1134826	Apr 2010	
+	Germany	Münster	Nederlands-Duitse Internet Exchange	0						
+	Germany	Münster	Münster Internet Exchange	7					2019	
+	Germany	Nuremberg	Nürnberger Internet Exchange	50	18G	12G		8942	2003	
+	Germany	Nuremberg	frankonIX	31					Jul 2024	
+	Germany	Ruhr	RUHR-CIX	6				1195	16 Feb 2021	
+	Germany	Stuttgart	Stuttgarter Internet Exchange	37	218G	97G		286462	Apr 2005	
+	Germany	Wuppertal	United Peering	13				77	10 Sep 2015	
+Africa (96)	Ghana	Accra	Ghana Internet Exchange	27	63G	4.8G		9783	18 Oct 2005	
+	Ghana	Accra	Accra Internet Exchange	26					1 Aug 2023	
+	Ghana	Accra	London Internet Exchange - Accra	6	395M	136M			2025	
+Europe (448)	Greece	Athens	Greek Internet Exchange - Athens	74	767G	423G		1134515	2000	
+	Greece	Athens	The South East Europe Cloud & Interconnection Exchange	14					Sep 2020	
+	Greece	Athens	Novelcomm Internet Exchange	14	874M	546M			2025	
+	Greece	Thessaloniki	Greek Internet Exchange - Thessaloniki	22	15.8G	10.5G			2018	
+	Greece	Thessaloniki	Thessaloniki Internet Exchange	18	103G	65.2G			2021	
+	Greece	Thessaloniki	Free IX Greece	12	1.83G	702M			Apr 2024	
+	Greece	Thessaloniki	NetIX Greece	256	6.69T	4.83T		577356	Jan 2016	
+	Greece	Thessaloniki	MIX Thessaloniki	13					Jun 2025	
+Latin America (176)	Grenada	St. Georges	Grenada Internet Exchange	14	14.8G	8.76G		237753	12 May 2011	
+Asia-Pacific (301)	Guam	Mangilao	Mariana Islands Internet Exchange	10					2018	
+	Guam	Tamuning	Guam IX	7				1041		
+Latin America (176)	Guatemala	Guatemala	IXP-GT	12		57M		7664	21 Nov 2019	
+	Guatemala	Guatemala	PIT Guatemala - Punto de Intercambio de Tráfico Neutral de Guatemala	32	700G	300G		5544	2023	
+Africa (96)	Guinea	Conakry	IXP-GUINEE	11	52.7M	6.99M		148	2019	
+Latin America (176)	Guyana	Georgetown	Guyana internet exchange point	0						
+	Haiti	Port au Prince	AHTIC Internet Exchange Point	9	12G			139	5 May 2009	
+	Honduras	San Pedro Sula	PIT Honduras	27	20.5G	12G		1329	1 Jan 2020	
+	Honduras	Tegucigalpa	IXP-HN Puntos de Intercambio de Tráfico – Honduras	8				152	Jul 2015	
+	Honduras	Tegucigalpa	Internet Exchange Point Latin America	0						
+Europe (448)	Hungary	Budapest	Budapest Internet Exchange	119	1.08T	645G		658795	1996	
+	Iceland	Reykjavik	Reykjavik Internet Exchange	30	29.2G	22.7G		10482	1999	
+Asia-Pacific (301)	India	Ahmedabad	National Internet Exchange of India - Ahmedabad	16					2008	
+	India	Amaravati	Amaravati Internet Exchange	15	7.3G	4G			17 May 2018	
+	India	Bangalore	National Internet Exchange of India - Bangalore	7	640K	525K			2008	
+	India	Bangalore	Extreme IX Bangalore	37	580G	252G		13825		
+	India	Chennai	National Internet Exchange of India - Chennai	62				154599	19 Jul 2003	
+	India	Chennai	Extreme IX Chennai	92	1.89T	522G			23 Jun 2016	
+	India	Chennai	REDIX Chennai	4					2018	
+	India	Chennai	DE-CIX Chennai	69					2019	
+	India	Guntur	Remki Internet Exchange	1					2017	
+	India	Guwahati	National Internet Exchange of India - Guwahati	7					2018	
+	India	Hyderabad	National Internet Exchange of India - Hyderabad	23				194	2008	
+	India	Hyderabad	Extreme IX Hyderabad	16	313G	78.2G			23 Jun 2016	
+	India	Hyderabad	Deccan IX	0						
+	India	Hyderabad	DE-CIX Hyderabad	295				995		
+	India	Hyderabad	AMS-IX Hyderabad	8	9.75G	3G				
+	India	Indore	India Internet Exchange	0						
+	India	Kochi	India Internet Exchange	0						
+	India	Kolkata	National Internet Exchange of India - Kolkata	30					19 Jul 2003	
+	India	Kolkata	Kolkata IX	15	4.03G	2.39G		185	2016	
+	India	Kolkata	Extreme IX Kolkata	25	94.6G	43.9G				
+	India	Kolkata	DE-CIX Kolkata	17					2019	
+	India	Kolkata	AMS-IX Kolkata	6	101G	40G				
+	India	Lucknow	National Internet Exchange of India - Lucknow	0						
+	India	Mohali	National Internet Exchange of India - Mohali	0						
+	India	Mumbai	Enron India Exchange	0						
+	India	Mumbai	National Internet Exchange of India - Mumbai	185	8.4G	2.71G		143798	19 Jul 2003	
+	India	Mumbai	DE-CIX Mumbai	408				129270	14 Aug 2014	
+	India	Mumbai	AMS-IX Mumbai	85	115G	43.2G			2 Feb 2017	
+	India	Mumbai	Bharat IX - Mumbai	10					2 Oct 2017	
+	India	Mumbai	Extreme IX Mumbai	236	9.92T	2.17T		151375	23 Jun 2016	
+	India	Mumbai	Equinix Internet Exchange Mumbai	25	16.1G	4.26G		1956		
+	India	New Delhi	India Internet Exchange	0						
+	India	New Delhi	National Internet Exchange of India - New Delhi	114	49.4G	781M		172269	19 Jul 2003	
+	India	New Delhi	Extreme IX New Delhi	175	4T	1.81T		62611	23 Jun 2016	
+	India	New Delhi	ANI Peering Exchange	30					2018	
+	India	New Delhi	DE-CIX Delhi	88					2019	
+	India	Pune	Extreme IX Pune	6	95.7G	35.9G			Jul 2019	
+	Indonesia	Bali	Bali Internet Exchange	0						
+	Indonesia	Bandar Lampung	IIX-Lampung	18	12.6T	7.2T				
+	Indonesia	Bandung	NPXP	0						
+	Indonesia	Bandung	IIX-Jabar	39	306M	136M				
+	Indonesia	Batam	Batam Internet Exchange - Batam	13					2019	
+	Indonesia	Batam	Omni Internet Exchange	32	12.3G	7.97G				
+	Indonesia	Denpasar	cloudXchange Denpasar	50	6.77G	3.7G			2019	
+	Indonesia	Denpasar	Bali Internet eXchange	37	125M	5.66M				
+	Indonesia	Depok	Alien Internet Exchange	382	461G	230G		22841	1 Aug 2024	
+	Indonesia	Jakarta	IndonesiaEP	0						
+	Indonesia	Jakarta	Indonesian Internet Exchange	896	17.2T	12.7T		93	Aug 1997	
+	Indonesia	Jakarta	Jakarta Internet Exchange	833	3.46T	2.22T			Jun 2018	
+	Indonesia	Jakarta	NAPSINDO International Internet Exchange	0						
+	Indonesia	Jakarta	Biznet Internet Exchange	232	952G	620G			2006	
+	Indonesia	Jakarta	PT. Cyberindo Aditama	0					2008	
+	Indonesia	Jakarta	Matrix Cable Internet Exchange	68	10G			1037904	2011	
+	Indonesia	Jakarta	NEX Internet Exchange	12					2010	
+	Indonesia	Jakarta	PT. Cyberplus Media Pratama	0					2013	
+	Indonesia	Jakarta	OpenIXP Internet exchange Point	1978	6.5T	4.8T		21295	2005	
+	Indonesia	Jakarta	Cyber 2 Internet Exchange	36						
+	Indonesia	Jakarta	Batam Internet Exchange - Jakarta	13	28.5G	18.4G			1 Jan 2020	
+	Indonesia	Jakarta	Digital Edge EPIX Jakarta	82				50687		
+	Indonesia	Jakarta	cloudXchange Jakarta	207	66G	45G			2019	
+	Indonesia	Jakarta	EdgeNXT Internet Exchange	130	110G	73G				
+	Indonesia	Jakarta	Equinix Internet Exchange Jakarta	51						
+	Indonesia	Jakarta Selatan	Indonesia Local Exchange	62	241G	141G			9 Sep 2024	
+	Indonesia	Semarang	CitranetIX Semarang	11	137G	84.7G		7899		
+	Indonesia	Surabaya	NPXP	0						
+	Indonesia	Surabaya	IIX Jawa Timur	102	11G	6.92G				
+	Indonesia	Surabaya	cloudXchange Surabaya	8						
+	Indonesia	Surakarta	CitranetIX Surakarta	18	274G	169G	50%	8266	1 Jan 2020	
+	Indonesia	Yogyakarta	Universitas Negeri Yogyakarta Internet Exchange Point	38						
+	Indonesia	Yogyakarta	CitranetIX Yogyakarta	63	274G	169G	50%	9083	1 Jan 2020	
+Europe (448)	Iran	Mashhad	Mashhad IX	0					2016	
+	Iran	Shiraz	Shiraz IX	10	61.4G	37.6G			2016	
+	Iran	Tabriz	Tabriz IX	6	50.1G	32.5G			2016	
+	Iran	Tehran	Tehran IX	44	3.24T	2.22T			15 May 2016	
+	Iraq	Baghdad	IRAQ-IXP	39	241G	113G		1308	1 May 2021	
+	Ireland	Cork	Cork Neutral Internet Exchange	0					17 Jul 2009	
+	Ireland	Cork	Internet Neutral Exchange Association CLG - Cork	118	884M	220M			Apr 2016	
+	Ireland	Dublin	Internet Neutral Exchange Association CLG - LAN1	115	954G	608G		1228521	1996	
+	Ireland	Dublin	Equinix Internet Exchange Dublin	18	12.3G	4.6G			22 Feb 2018	
+	Ireland	Dublin	Internet Neutral Exchange Association CLG - LAN2	115	237G	164G				
+	Ireland	Galway	eXchange West	2					4 Jun 2009	
+	Israel	Petach Tikva	Israeli Internet Exchange	18	339G	145G		5343	1996	
+	Italy	Bolzano	South Tyrol Internet Exchange	13					1 Jan 2019	
+	Italy	Florence	Tuscany Internet Exchange	33	394M	117M			2003	
+	Italy	Milan	Milan Internet Exchange	423	3T	2.43T			Jan 2000	
+	Italy	Milan	Milan Neutral Access Point	118	384G	280G			2008	
+	Italy	Milan	Equinix Internet Exchange Milan	46	138G	67.6G			2018	
+	Italy	Padova	VSIX NAP del Nord Est	96	194G	156G			1 Sep 2009	
+	Italy	Palermo	DE-CIX Palermo	25	57.7G	25.6G			2 Sep 2015	
+	Italy	Piacenza	Piacenza Internet Exchange	33					2015	
+	Italy	Pomezia	Southern Italy Internet Exchange	14	2.23G	1.73G			1 Jan 2022	
+	Italy	Rome	CASPUR	0						
+	Italy	Rome	Roma Internet Exchange Point	274	1.06T	582G		527322	1996	
+	Italy	Rome	Hamro Internet Exchange - Rome	6						
+	Italy	Torino	Torino Piemonte Exchange Point	120	293G	129G		916548	Apr 2002	
+	Italy	Udine	Friuli Venezia Giulia Internet Exchange	8					2009	
+Latin America (176)	Jamaica	Kingston	Jamaica Internet Exchange Point	6	3.84G	892M		317	31 Aug 2014	
+Asia-Pacific (301)	Japan	Akita	Akita Regional IX	0						
+	Japan	Fukuoka	BroadBand Internet eXchange Fukuoka	14	107G	36.3G			1 Oct 2004	
+	Japan	Fukuoka	JPNAP Fukuoka	13	181G	114G			Jan 2021	
+	Japan	Fukuoka	JPIX Fukuoka	11					Feb 2022	
+	Japan	Kyoto	Kyoto Municipal Exchange	0						
+	Japan	Nagoya	JPIX Nagoya	0					Apr 2001	
+	Japan	Nagoya	BroadBand Internet eXchange Nagoya	0					May 2005	
+	Japan	Niigata	Echigo Internet Exchange	4					Sep 2011	
+	Japan	Okinawa	BroadBand Internet eXchange Okinawa	0					Sep 2006	
+	Japan	Osaka	JPIX Osaka	113	1.8T	1.1T		51616	Apr 2002	
+	Japan	Osaka	JPNAP Osaka	99	2.74T	1.79T			2 Feb 2002	
+	Japan	Osaka	NSPIXP-2	0					Mar 1997	
+	Japan	Osaka	DIX-IE	0					Mar 1997	
+	Japan	Osaka	BroadBand Internet eXchange Osaka	132	2.43T	1.19T		570860	Sep 2003	
+	Japan	Osaka	Equinix Internet Exchange Osaka	28	53.5G	17.4G				
+	Japan	Sapporo	JPNAP Sapporo	0						
+	Japan	Sendai	BroadBand Internet eXchange Sendai	0					Aug 2004	
+	Japan	Sendai	JPNAP Sendai	0						
+	Japan	Tokyo	JPIX Nihonbashi	0					Apr 2004	
+	Japan	Tokyo	JPIX Tokyo	258	4.33T	3.2T		134	Jul 1997	
+	Japan	Tokyo	JPNAP Tokyo	240	5.07T	4T			2001	
+	Japan	Tokyo	Media Exchange Co.	0						
+	Japan	Tokyo	Network Service Provider IXP	0					Apr 1994	
+	Japan	Tokyo	Network Service Provider IXP (Distributed IX in Edo)	28	23G			9745	Oct 1996	
+	Japan	Tokyo	Network Service Provider IXP-6	51					Aug 1999	
+	Japan	Tokyo	Pihana Tokyo	0						
+	Japan	Tokyo	BroadBand Internet eXchange Tokyo	356	9.53T	6.94T		755502	Jul 2003	
+	Japan	Tokyo	Equinix Internet Exchange Tokyo	124	1.3T	840G		734508	29 May 2001	
+	Japan	Tokyo	JPNAP Tokyo II - Ikebukuro	0					1 Apr 2008	
+	Japan	Tokyo	Tokyo Lambda Exchange	0					Mar 2004	
+	Japan	Tokyo	Asia Smart IX [BBIX Asia]	7						
+	Japan	Tokyo	INIXP Asia	11					1 Oct 2023	
+	Japan	Tokyo	Japan Community IX - INIXP	16					Oct 2023	
+	Japan	Tokyo	Japan Community IX - JCIX	32					Feb 2024	
+Europe (448)	Jordan	Aqaba	Aqaba IX	18	40.7G	20.9G		1872	1 Jan 2020	
+	Kazakhstan	Almaty	Kazakhstan Government Internet Exchange Almaty	6	238G	170G				
+	Kazakhstan	Aqtau	Kazakhstan Government Internet Exchange Aqtau	3	7.2G	4.8G				
+	Kazakhstan	Aqtobe	Kazakhstan Government Internet Exchange Aqtobe	4	3.8G	2G				
+	Kazakhstan	Astana	Kazakhstan Government Internet Exchange Astana	13	74G	63G				
+	Kazakhstan	Atyrau	Kazakhstan Government Internet Exchange Atyrau	4	8.5G	6.3G				
+	Kazakhstan	Karaganda	Kazakhstan Traffic Exchange	0						
+	Kazakhstan	Karaganda	Kazakhstan Government Internet Exchange Karaganda	4	47G	28G				
+	Kazakhstan	Kokshetau	Kazakhstan Government Internet Exchange Kokshetau	4	365M	225M				
+	Kazakhstan	Pavlodar	Kazakhstan Government Internet Exchange Pavlodar	6						
+	Kazakhstan	Qostanay	Kazakhstan Government Internet Exchange Qostanay	3	8.7G	7G				
+	Kazakhstan	Qyzylorda	Kazakhstan Government Internet Exchange Qyzylorda	4	4.6G	3.5G				
+	Kazakhstan	Semey	KazNIX	16	2.5G	1.65G		2470	1 Nov 2018	
+	Kazakhstan	Semey	Kazakhstan Government Internet Exchange Semey	4	5.8G	3.6G				
+	Kazakhstan	Shymkent	Kazakhstan Government Internet Exchange Shymkent	4	470M	375M				
+	Kazakhstan	Taldykorgan	Kazakhstan Government Internet Exchange Taldyqorgan	0	1.08G	710M				
+Africa (96)	Kenya	Mombasa	AMS-IX East Africa	0					Aug 2010	
+	Kenya	Mombasa	Kenya Internet Exchange Point - Mombasa	29	88.2G	35.8G		1568329	1 Jun 2016	
+	Kenya	Mombasa	Asteroid Mombasa	54	5.03G			255386	Dec 2018	
+	Kenya	Nairobi	Kenya Internet Exchange Point - Nairobi	148	2.02T	361G		717658	Feb 2001	
+	Kenya	Nairobi	LINX Nairobi	31	12G	6.37G				
+	Kenya	Nairobi	Asteroid Nairobi	0						
+Europe (448)	Kosovo	Prishtinë	KOSIX Internet Exchange Point	0					23 Jun 2011	
+	Kuwait	Kuwait City	Kuwait Internet Exchange	19	49G			185	2018	
+Asia-Pacific (301)	Kyrgyzstan	Bishkek	KG-IX	12	120G	3G		11462	14 Feb 2018	
+	Kyrgyzstan	Bishkek	Kyrgyz IXP	0					2002	
+	Kyrgyzstan	Bishkek	SR-IX	9	12G	8G			11 Sep 2019	
+	Laos	Vientiane	Lao National Internet Center	7	1M				1 Sep 2010	
+	Laos	Vientiane	Vientiane IX	0						
+Europe (448)	Latvia	Riga	Latvian Internet Exchange	0					Jun 2007	
+	Latvia	Riga	Santa Monica Internet Local Exchange	24	8.9G			816554	11 Oct 2005	
+	Latvia	Riga	MSK-IX Riga	21	8.54T	6.84T			2018	
+	Latvia	Riga	PITER-IX Riga	139	15.2G	19.9G				
+	Lebanon	Beirut	Lebanon Internet Exchange	24				705	6 Dec 2007	
+	Lebanon	Beirut	Advanced Internet Exchange	26	76.2M	26.1M		989	9 May 2017	
+	Lebanon	Beirut	LebanonIX	0						
+	Lebanon	Beirut	OpenIX Beirut	39	5.13G	4.26G			13 May 2025	
+Africa (96)	Lesotho	Maseru	Lesotho Internet Exchange Point	8	80M	60M			2017	
+	Liberia	Monrovia	Liberia Internet Exchange Point	4	2M			47	4 Aug 2015	
+Europe (448)	Liechtenstein	Balzers	Virtual Internet Exchange Point	0						
+	Liechtenstein	Eschen	Rheintal Internet Exchange	38	7.18G	3.76G		179	27 Oct 2011	
+	Lithuania	Vilnius	Lithuanian Internet service providers exchange unit	5					2008	
+	Lithuania	Vilnius	Lithuania Internet Exchange	11	37G	27G		245146	2010	
+	Lithuania	Vilnius	Baltic Internet Exchange	76	93.9G	35G			2017	
+	Lithuania	Vilnius	Lithuanian peering center	23	140G				1 Jan 2010	
+	Luxembourg	Luxembourg	Luxembourg Internet Exchange	0					1998	
+	Luxembourg	Luxembourg	Luxembourg Internet Exchange	98	278G	182G		896693	2009	
+Africa (96)	Madagascar	Antananarivo	Madagascar Global Internet Exchange	9	11.8M			1514	16 Mar 2016	
+	Malawi	Blantyre	Malawi IXP	10	10M			795	1 Dec 2008	
+	Malawi	Lilongwe	Lilongwe Open and Neutral Internet Exchange	7	967K	121K			1 Apr 2023	
+	Malawi	Lilongwe	Lilongwe Internet Exchange	0						
+Asia-Pacific (301)	Malaysia	Cyberjaya	Malaysia Network Access Point (MYNAP)	0						
+	Malaysia	Johor Bahru	DE-CIX Johor Bahru	4					25 Jul 2018	
+	Malaysia	Kuala Lumpur	Asia Regional Internet Exchange NAP	0						
+	Malaysia	Kuala Lumpur	Kuala Lumpur Internet Exchange	0						
+	Malaysia	Kuala Lumpur	Malaysia Internet Exchange	185	249G			1088280	15 Dec 2006	
+	Malaysia	Kuala Lumpur	Thai-IX Malaysia by CS Loxinfo	13						
+	Malaysia	Kuala Lumpur	DE-CIX Kuala Lumpur	43	434G	204G		677841	1 Apr 2021	
+	Malaysia	Kuala Lumpur	DE-CIX Malaysia	17						
+	Malaysia	Kuala Lumpur	Equinix Internet Exchange Kuala Lumpur	2						
+	Malaysia	Kuching	Irix Internet Exchange	2					25 Sep 2023	
+	Maldives	Male	Maldives Internet Exchange	8	3.17G	2.1G		682	28 Sep 2022	
+Africa (96)	Mali	Bamako	Mali Internet Exchange	3	125M	53.5M		7	23 Feb 2018	
+Europe (448)	Malta	Msida	Malta Internet Exchange	0					7 Sep 1999	
+Latin America (176)	Martinique	Fort-de-France	Martinix	6	966M	120M			1 Jan 2015	
+Africa (96)	Mauritania	Nouakchott	Mauritania IX	0						
+	Mauritania	Nouakchott	RIMIX	0						
+	Mauritius	Ebene	Mauritius Internet Exchange	25	531M	246M		1507	1 Dec 2005	
+Latin America (176)	Mexico	Ciudad de Mexico	IXP.MX - Mexico City	14	6.35G	2.06G		123	30 Apr 2014	
+	Mexico	Guadalajara	IXGDL	4					1 Mar 2023	
+	Mexico	Merida	Internet Exchange Services Yucatan	9	23.4G	13.5G		473	Jan 2021	
+	Mexico	Mexico DF	Equinix Internet Exchange Mexico	13	198M	23.8M				
+	Mexico	Monterrey	NIX Monterrey	10	6.97G	4.91G				
+	Mexico	Querétaro	Querétaro IXP	0					1 Oct 2020	
+	Mexico	Querétaro	PIT MX	62	680G	466G		35658	1 Jun 2023	
+	Mexico	Queretaro	MEX-IX El Paso	0						
+Europe (448)	Moldova	Chisinau	Moldova Internet Exchange	15	55G			2249	1 Jan 2002	
+Asia-Pacific (301)	Mongolia	Ulaanbaatar	Mongolia Internet Exchange	0					May 2001	
+	Mongolia	Ulaanbaatar	Mongolian Internet Exchange and Mongolian National Data Center	5						
+	Mongolia	Ulaanbaatar	MISPA internet exchange point	20				1311	1 Jan 2013	
+Europe (448)	Montenegro	Podgorica	Montenegro Internet eXchange Point	5	1G	350M			22 Jul 2015	
+Africa (96)	Morocco	Casablanca	Casablanca Internet Exchange	3				185	Oct 2019	
+	Morocco	Rabat	Maroc Internet Exchange Point	0					Nov 2016	
+	Mozambique	Maputo	Mozambique Internet Exchange	15	14.7M			3945	May 2002	
+Asia-Pacific (301)	Myanmar	Mandalay	Myanmar Internet Exchange - Mandalay	22				457		
+	Myanmar	Yangon	Myanmar Internet Exchange - Yangon	12	55.6G	34.4G		1315	Sep 2017	
+Africa (96)	Namibia	Windhoek	Windhoek IXP	12	590M			418	7 Mar 2014	
+Asia-Pacific (301)	Nepal	Biratnagar	Hamro Internet Exchange - Kathmandu	0						
+	Nepal	Kathmandu	Nepal Internet Exchange - Putalisadak	61	60.4G	32.6G		390	Aug 2002	
+	Nepal	Lalitpur	Nepal Internet Exchange - Jawalakhel	43	31.1G	17.1G				
+Europe (448)	Netherlands	Amsterdam	AMS-IX Amsterdam	909	15T	12T		2575002	29 Dec 1997	
+	Netherlands	Amsterdam	XchangePoint Amsterdam IPP	0						
+	Netherlands	Amsterdam	Neutral Internet Exchange	663	10.4T	6.82T		1686128	1 Mar 2002	
+	Netherlands	Amsterdam	Asteroid Amsterdam IX	29	15G	6G			2017	
+	Netherlands	Amsterdam	Equinix Internet Exchange Amsterdam	67	71.8G	41.7G			5 Jul 2017	
+	Netherlands	Amsterdam	Neutral Internet Exchange 2	18						
+	Netherlands	Amsterdam	Hamro Internet Exchange - Amsterdam	16						
+	Netherlands	Amsterdam	ERA-IX Amsterdam	185	2T	1.7G			May 2022	
+	Netherlands	Amsterdam	North Sea Internet Exchange	22	210K	5K			1 Nov 2024	
+	Netherlands	Amsterdam	GNM Internet Exchange Amsterdam	416	250T	45.1T	50%			
+	Netherlands	Amsterdam	FogIXP Amsterdam regional IXP	39					2022	
+	Netherlands	Amsterdam	Securebit Internet Exchange Amsterdam	43					Jul 2023	
+	Netherlands	Amsterdam	InterIX Internet Exchange	203	422G	312G				
+	Netherlands	Amsterdam	Lynqia Internet Exchange	0						
+	Netherlands	Den Haag	Den Haag Internet Exchange	0					1997	
+	Netherlands	Dronten	Speed Internet Exchange	303	1.05T	791G			2017	
+	Netherlands	Enschede	Nederlands-Duitse Internet Exchange	16					Apr 2001	
+	Netherlands	Frysian	The Frys Internet Exchange	305	1.25T	994G			Apr 2021	
+	Netherlands	Groningen	Groningen-IX	51					2001	
+	Netherlands	Leeuwarden	Friese Internet Exchange	38	3.1G	3K			26 Jan 2006	
+	Netherlands	Leeuwarden	Noord-IX	8	72.6M	18.3M				
+	Netherlands	Meppel	Local Internet Exchange Netherlands	57	103G	65.2G			Sep 2019	
+	Netherlands	Rotterdam	Rotterdam Internet eXchange	29	250G			11270	2007	
+	Netherlands	The Hague	LayerSwitch Internet Exchange	151	344G	259G			Mar 2017	
+Asia-Pacific (301)	New Zealand	Auckland	Auckland Peering Exchange	83	12.3G	7.8G		150075	10 Aug 1999	
+	New Zealand	Auckland	MegaPort-IX Auckland	96	89.7G	56.9G		1068418	20 Nov 2014	
+	New Zealand	Auckland	New Zealand Internet Exchange Auckland	110	782G	587G		633062	7 Nov 2014	
+	New Zealand	Auckland	Edge Internet Exchange - Auckland	62	217G	126G			Aug 2023	
+	New Zealand	Christchurch	Christchurch Internet Exchange	12				3464	2007	
+	New Zealand	Christchurch	New Zealand Internet Exchange Christchurch	18	28G	21G				
+	New Zealand	Dunedin	Dunedin Peering Exchange	0					2005	
+	New Zealand	Hamilton	Hamilton Internet Exchange	2					2010	
+	New Zealand	Invercargill	Southland Internet Exchange	0						
+	New Zealand	Palmerston North	Palmerston North Internet Exchange	4				10	30 Nov 2004	
+	New Zealand	Upper Hutt/Lower Hutt/Porirua	Three Cities Internet Exchange	0					Jun 2005	
+	New Zealand	Waikato	New Zealand Internet Exchange	0						
+	New Zealand	Wellington	Wellington Internet Exchange	89	238M	73.2M		772	Dec 1996	
+Latin America (176)	Nicaragua	Managua	Nicaraguan Internet Exchange	0					Apr 2004	
+Africa (96)	Niger	Niamey	Niger Internet Exchange	0						
+	Nigeria	Abuja	Internet Exchange Point of Nigeria - Abuja	129	1.11T	769G			2012	
+	Nigeria	Ibadan	Ibadan Internet Exchange	0					Mar 2002	
+	Nigeria	Kano	Internet Exchange Point of Nigeria - Kano	129	1.11T	769G			2017	
+	Nigeria	Lagos	Internet Exchange Point of Nigeria - Lagos	500	1.11T	769G		771943	2006	
+	Nigeria	Lagos	AMS-IX Lagos	45	403G	180G		2987	Oct 2018	
+	Nigeria	Port Harcourt	Internet Exchange Point of Nigeria - Port Harcourt	129	1.11T	769G			17 May 2012	
+Europe (448)	North Macedonia	Skopje	IXP.mk	21	16.7G	11.3G		86189	2016	
+	Norway	Bergen	Bergen Internet Exchange	4	559M	290M			2004	
+	Norway	Oslo	Norwegian Internet Exchange Oslo 1	70	243G	140G		671962	Mar 1993	
+	Norway	Oslo	Free Internet eXchange Oslo	47					16 Jan 2008	
+	Norway	Oslo	Norwegian Internet Exchange Oslo 2	13	4.5G	2.3G		988	May 2000	
+	Norway	Stavanger	Stavanger Internet exchange	10	6G	3.75G			2007	
+	Norway	Tromsø	Tromsø Internet exchange	8	243G	140G			2007	
+	Norway	Trondheim	Trondheim Internet Exchange	10	6G	3G		1460	2005	
+	Oman	Muscat	Equinix Internet Exchange Muscat	11	39.7G	11.7G			Dec 2020	
+	Oman	Muscat	Oman-IX	9					1 Dec 2023	
+Asia-Pacific (301)	Pakistan	Islamabad	Pakistan Internet Exchange Point - Islamabad	13					27 Jan 2017	
+	Pakistan	Karachi	Pakistan Internet Exchange Point - Karachi	14					1 Jan 2019	
+	Pakistan	Karachi	PKIXP Karachi (ex ZPIX)	0					10 Jan 2011	
+	Pakistan	Karachi	Pakistan Internet Exchange (PIE) Karachi	11					29 Jan 2024	
+	Pakistan	Lahore	Pakistan Internet Exchange Point - Lahore	16					1 Aug 2021	
+Europe (448)	Palestine	Ramallah	Palestinian Internet Exchange	3	27.3M			146	4 Jun 2012	
+	Palestine	Ramallah	State of Palestine Internet Exchange	20	2G			920	1 Mar 2020	
+Latin America (176)	Panama	Panama City	Intered Panamá	30	226G	78.3G		6690	20 Apr 1997	
+Asia-Pacific (301)	Papua New Guinea	Port Moresby	PNG-IXP-POM	13					10 May 2017	
+Latin America (176)	Paraguay	Asuncion	CAPADI NAP-PY	0					20 Sep 2000	
+	Paraguay	Asuncion	Punto de Intercambio de Tráfico de Paraguay	38	47.8G	22.6G		5592	2016	
+	Paraguay	Ciudad del Este	IX CDE SOCIEDAD ANONIMA	38	156G	77.8G		25710	20 Oct 2023	
+	Peru	Arequipa	PIT Arequipa - PIT Peru	18	600G	200G			2021	
+	Peru	Chiclayo	PIT Chiclayo - PIT Peru	17	600G	300G			2023	
+	Peru	Cusco	PIT Cusco - PIT Peru	5	20G	9G			2024	
+	Peru	Huancayo	IX AndeSpark Perú Huancayo	7	8.54G	4.31G		2	31 Oct 2024	
+	Peru	Huancayo	PIT Huancayo - PIT Peru	4	10G	4G			2025	
+	Peru	Lima	NAP Lima	0						
+	Peru	Lima	NAP Perú	17	4.52G	1.4G			10 May 2001	
+	Peru	Lima	NAP Inca	0					2011	
+	Peru	Lima	PIT Lima - PIT Peru	120	8.1T	1.7T		43786	2018	
+	Peru	Lima	Jumbo Internet Exchange - Lima	27	59.4G	25G				
+	Peru	Piura	PIT Piura - PIT Peru	8	300G	100G			2024	
+	Peru	Trujillo	PIT Trujillo - PIT Peru	10	400G	200G			2023	
+Asia-Pacific (301)	Philippines	Cebu	GetaFIX Cebu	7	923G	585G				
+	Philippines	Manila	Common Routing Exchange	0					1993	
+	Philippines	Manila	Manila Internet Exchange	0						
+	Philippines	Manila	Philippines Internet Exchange	0					Jan 1997	
+	Philippines	Manila	Philippine Open Internet Exchange	60	51.4G	43.8G		725560	2007	
+	Philippines	Manila	GetaFIX Manila	125	923G	585G		215285	2018	
+	Philippines	Manila	Maharlika Internet Exchange	57	389G	209G		17546	Jun 2023	
+	Philippines	Manila	Digital Edge EPIX Philippines	2						
+	Philippines	Manila	AMS-IX Manila	10	18.7G	8G				
+	Philippines	Quezon City	Bayan Telecommunications Internet and Gaming Exchange	0						
+Europe (448)	Poland	Gdansk	POMIX	13					1 May 2024	
+	Poland	Katowice	Tysiaclecie Internet Exchange	0					Apr 2004	
+	Poland	Katowice	EPIX.Katowice	546	2.55T				2013	
+	Poland	Kraków	Cracow Internet Exchange	52					Nov 2009	
+	Poland	Lodz	Lodz Internet Exchange	18	110G	60G			Nov 2009	
+	Poland	Poznan	Poznan Internet Exchange	83	318G	160G			10 Mar 2006	
+	Poland	Poznan	EPIX.Poznan	34	46G					
+	Poland	Warsaw	Warsaw Internet Exchange	0					1996	
+	Poland	Warsaw	Equinix Internet Exchange Warsaw	296	1.82T	56.3G		1009949	2 Apr 2006	
+	Poland	Warsaw	Thinx IX	189	1.59T	588G		685745	28 Nov 2008	
+	Poland	Warsaw	TPIX - Internet Exchange	457	2.47T	1.59T			Nov 2010	
+	Poland	Warsaw	Krajowa Izba Komunikacji Ethernetowej	0					2009	
+	Poland	Warsaw	EPIX.Warszawa-KIX	551	1.78T				2013	
+	Poland	Warsaw	1-IX EU	189	4.75T	2.9T			2025	
+	Poland	Wroclaw	Wroclaw Internet eXchange	43					Feb 2001	
+	Portugal	Lisbon	Gigabit Portuguese Internet Exchange Point	61	636G	207G		934048	Oct 1995	
+	Portugal	Lisbon	Equinix Internet Exchange Lisbon	19	25.8G	10.7G			2018	
+	Portugal	Lisbon	DE-CIX Lisbon	66	103G	55G		1061267	2019	
+	Portugal	Porto	Gigabit Portuguese Internet Exchange Point Porto	2	636G	207G			Jan 2011	
+North America (284)	Puerto Rico	San Juan	Internet Exchange of Puerto Rico	0					16 Apr 2006	
+	Puerto Rico	San Juan	Puerto Rico Bridge Initiative	0						
+	Puerto Rico	San Juan	Puerto Rico Internet Exchange	34	160G	100G		2802	2019	
+Europe (448)	Qatar	Doha	Qatar Internet Exchange Point	22				1738	4 Jun 2016	
+	Qatar	Doha	Doha IX	3					4 Feb 2025	
+Africa (96)	Republic of Congo	Brazzaville	Congo Internet eXchange	8				317	10 May 2013	
+	Republic of Congo	Pointe-Noire	CG-IX Pointe-Noire	1					2024	
+Europe (448)	Romania	Bucharest	Bucharest Internet Exchange	0					1999	
+	Romania	Bucharest	Romanian National Internet Exchange	41	47G	30G			7 Sep 2001	
+	Romania	Bucharest	InterLAN-IX	151	1.83T	1.35T	50%	770821	2007	
+	Romania	Bucharest	Balcan-IX	46	16G	9G			2008	
+	Romania	Bucharest	Romania Internet eXchange Point	3					2018	
+	Romania	Bucharest	Romania Commercial Internet Exchange	11					2020	
+	Romania	Bucharest	Romanian Open Internet Exchange	27					Jul 2020	
+	Romania	Bucharest	DreamServer InternetExchange	16	24.4M	3.44M	50%			
+	Romania	Suceava	Suceava Internet Exchange	0						
+	Romania	Targoviste	LNK-IX	1					Sep 2018	
+	Russia	Barnaul	SFO-IX	113	390G	286G				
+	Russia	Chelyabinsk	Chelyabinsk Peering Point	0						
+	Russia	Chita	DV-IX	5						
+	Russia	Ekaterinburg	MSK-IX Ekaterinburg	52	43.2G				1 Dec 2012	
+	Russia	Irkutsk	BAIKAL-IX	8					2020	
+	Russia	Kazan	MSK-IX Kazan	7	5.3T	4.62T			May 2010	
+	Russia	Khabarovsk	DataIX Khabarovsk	30	1.6M				2013	
+	Russia	Krasnodar	Sea-IX Internet exchange	66	300G	221G			8 Oct 2012	
+	Russia	Krasnoyarsk	Krasnoyarsk Internet Exchange	25	148G	110G			2006	
+	Russia	Krasnoyarsk	Sibir-IX	51	14.6G	10.4G			Mar 2017	
+	Russia	Moscow	MSK-IX Moscow	499	4.99T	3.28T	2.21%		25 Nov 1995	
+	Russia	Moscow	DataIX Moscow	282	1.6T				20 Oct 2010	
+	Russia	Moscow	SVAO-IX	76					Apr 2004	
+	Russia	Moscow	DataLine-IX	84						
+	Russia	Moscow	W-IX	177					25 Dec 2008	
+	Russia	Moscow	PITER-IX Moscow	424	676G	533G				
+	Russia	Moscow	SPACE-IX	0						
+	Russia	Moscow	Eurasia Peering Moscow	213	851G	464K			18 Sep 2014	
+	Russia	Nizhny Novgorod	Nizhny Novgorod Internet Exchange	15						
+	Russia	Novokuznetsk	TN-IX.net	3						
+	Russia	Novosibirsk	MSK-IX Novosibirsk	59	26.5G				2004	
+	Russia	Novosibirsk	DataIX Novosibirsk	27	8G				2012	
+	Russia	Omsk	Omsk Internet exchange	15	10.7G	5.2G			2006	
+	Russia	Perm	Perm traffic exchange point	1						
+	Russia	Rostov-on-Don	MSK-IX Rostov-on-Don	21					2009	
+	Russia	Samara	MSK-IX Samara	22	12.4G				2009	
+	Russia	Saratov	Saratov Internet Exchange	0					2005	
+	Russia	Simferopol	Crimea Internet Exchange	93					20 Feb 2006	
+	Russia	Simferopol	Media-IX	59	15G				2018	
+	Russia	St. Petersburg	North West Internet Exchange	0					1998	
+	Russia	St. Petersburg	MSK-IX St. Petersburg	96	83.4G				2009	
+	Russia	St. Petersburg	NW-IX	0						
+	Russia	St. Petersburg	DataIX St Petersburg	298	7.94T	6.61T			20 Oct 2010	
+	Russia	St. Petersburg	PIRIX	50	7.9G	5.1G			2008	
+	Russia	St. Petersburg	PITER-IX St. Petersburg	333	354G	208G				
+	Russia	Stavropol	MSK-IX Stavropol	2					2009	
+	Russia	Tomsk	Tomsk Internet eXchange	43	1.32G	550M			24 May 2013	
+	Russia	Ufa	DataIX Ufa	94	130G				2013	
+	Russia	Ulyanovsk	Ulyanovsk Internet Exchange	12					8 May 2009	
+	Russia	Ulyanovsk	Simbirsk Internet Exchange	0						
+	Russia	Vladivostok	MSK-IX Vladivostok	14	528M			457	2008	
+	Russia	Yaroslavl	Yaroslavl Internet Exchange	9	325M	229M				
+	Russia	Yaroslavl	Volga-IX	10						
+Africa (96)	Rwanda	Kigali	Rwanda Internet exchange	25	18.5G	13.3G		1364	2003	
+Latin America (176)	Saint Barthélemy	Saint-Barthelemy	Saint Barthelemy Internet Exchange	11	200M	150M		711	30 Jun 2022	
+	Saint Kitts and Nevis	Basseterre	St.Kitts & Nevis Internet Exchange	9	412M	3.46M	50%	141	2019	
+	Saint Lucia	Castries	Saint Lucia IXP	5				41	Jun 2014	
+	Saint Martin	Marigot	Saint-Martin Internet Exchange	6					21 Oct 2022	
+	Saint Vincent and the Grenadines	Kingstown	Saint Vincent & The Grenadines Internet Exchange	5					26 Jan 2016	
+Europe (448)	Saudi Arabia	Jeddah	Jeddah IX	14	685G	364G			Dec 2018	
+	Saudi Arabia	Jeddah	SAIX Saudi Arabia Jeddah	13	18G	4G			23 Jan 2023	
+	Saudi Arabia	Jeddah	Equinix Internet Exchange Jeddah	5	93G	32.1G				
+	Saudi Arabia	Riyadh	Saudi Telecommunications Company Internet NOC	0						
+	Saudi Arabia	Riyadh	The Internet Services Unit	0					1998	
+	Saudi Arabia	Riyadh	Internet Exchange of Saudi Arabia	0					Jan 2009	
+	Saudi Arabia	Riyadh	SAIX Saudi Arabia Riyadh	34	658G	254G		47278	May 2017	
+	Saudi Arabia	Riyadh	Riyadh IX	5	768G	277G			10 Jun 2024	
+Africa (96)	Senegal	Dakar	Senegal IX	6	556M			48	29 Aug 2017	
+	Senegal	Dakar	HubSIX	6	1.89G	606M		534		
+Europe (448)	Serbia	Belgrade	Serbian Open Exchange	51	816G	543G		1241582	Sep 2010	
+Africa (96)	Seychelles	Victoria	Seychelles Internet Exchange Point	0					5 Feb 2015	
+	Sierra Leone	Freetown	Michcom Internet Exchange Point	15					2025	
+Asia-Pacific (301)	Singapore	Singapore	Pihana Singapore	0						
+	Singapore	Singapore	Singapore One Network for Everyone	0						
+	Singapore	Singapore	Singapore Open Exchange	24				107022	Aug 2001	
+	Singapore	Singapore	Singapore Telecom Internet Exchange	0						
+	Singapore	Singapore	Equinix Internet Exchange Singapore	486	19.8T	14T		2964350	26 Apr 2004	
+	Singapore	Singapore	Singapore Internet Exchange	270	3.57T	3.08T		1433230	Sep 2009	
+	Singapore	Singapore	BroadBand Internet eXchange Singapore	124	2.03T	1.6T			1 Oct 2014	
+	Singapore	Singapore	MegaPort IX Singapore	46	28.3G	25.1G			2017	
+	Singapore	Singapore	DE-CIX ASEAN (Singapore, Malaysia, Brunei)	12				853065	2018	
+	Singapore	Singapore	Thai-IX Singapore by CS Loxinfo	17						
+	Singapore	Singapore	AMS-IX Singapore	13	136G	60G		363936	11 May 2022	
+	Singapore	Singapore	EDGE INTERNET EXCHANGE	0						
+	Singapore	Singapore	Internet Exchange 42 Singapore	5						
+	Singapore	Singapore	GNM Internet Exchange Singapore	19						
+North America (284)	Sint Eustatius	Oranjestad	AMS-IX Eastern Caribbean	8	3.59G	2G			14 Nov 2025	
+Latin America (176)	Sint Maarten	Philipsburg	Open Caribbean Internet eXchange	8	1.3G	736M			Oct 2008	
+Europe (448)	Slovakia	Bratislava	Slovak Internet eXchange Bratislava	70	158G	63.7G		761390	Oct 1996	
+	Slovakia	Bratislava	NIX.SK - exSitelIX	53					1 Aug 2005	
+	Slovakia	Košice	Slovak Internet Exchange Košice	4	137M	21.4M			Jun 2008	
+	Slovenia	Ljubljana	Slovenian Internet Exchange	39	163G	105G	50%	74260	Feb 1994	
+Africa (96)	Somalia	Mogadishu	Somali Internet Exchange Point 	6	24K	14K		103	20 Nov 2018	
+	Somalia	Mogadishu	Mogadishu IXP	0						
+	South Africa	Cape Town	Cape Town Internet Exchange	121	310G	217G		1049629	Jul 2009	
+	South Africa	Cape Town	Hub	0						
+	South Africa	Cape Town	NAPAfrica Cape Town	685	1.36T	835G		878980	2012	
+	South Africa	Durban	Durban Internet eXchange	105	113G	63.3G		992253	14 Sep 2012	
+	South Africa	Durban	NAPAfrica Durban	591	259G	126G		1043757	2014	
+	South Africa	Gqeberha	Nelson Mandela Bay Internet Exchange Point	10	102M	2M		608	1 Jun 2023	
+	South Africa	Grahamstown	Grahamstown Internet Exchange	0				30	13 Mar 2005	
+	South Africa	Johannesburg	Johannesburg Internet Exchange	210	387G	219G		1089580	6 Jun 1996	
+	South Africa	Johannesburg	South African Internet Exchange	0						
+	South Africa	Johannesburg	NAPAfrica Johannesburg	591	4.69T	3.17T		1228368	2012	
+Asia-Pacific (301)	South Korea	Seoul	6NGIX	82					Aug 2001	
+	South Korea	Seoul	LGDACOM Internet Exchange	52	70G				Oct 1996	
+	South Korea	Seoul	Korea Internet Data Center	0					Oct 1999	
+	South Korea	Seoul	Korea Internet Neutral Exchange KINX	64	1.1T	729G		1494176	Jun 2000	
+	South Korea	Seoul	Korea Internet Exchange KIX	0					Oct 1996	
+	South Korea	Seoul	Korea Telecom Internet Exchange	0					Oct 1996	
+	South Korea	Seoul	Pihana Seoul	0						
+	South Korea	Seoul	Equinix Internet Exchange Seoul	11	5.33G	2.85G			2019	
+	South Korea	Seoul	Korea Internet Exchange (SejongTelecom)	17	70G				Apr 2017	
+	South Korea	Seoul	Packet IX	9	206G	130G	50%		2025	
+Africa (96)	South Sudan	Juba	South Sudan IXP	0						
+Europe (448)	Spain	Barcelona	Catalunya Neutral Internet Exchange Point	54	124G	87.7G		358875	7 Apr 1999	
+	Spain	Barcelona	WAPOP Africa Interconnect Exchange	0					2013	
+	Spain	Barcelona	Equinix Internet Exchange Barcelona	10	1.3G	399M			2019	
+	Spain	Barcelona	DE-CIX Barcelona	50	62.4G	21.6G		1011128	1 Sep 2021	
+	Spain	Barcelona	ESpanix Barcelona Lower LAN	2						
+	Spain	Barcelona	ESpanix Barcelona Upper LAN	2						
+	Spain	Bilbao	Punto Neutro Vasco de Internet	0					17 Jan 2002	
+	Spain	Madrid	ESpanix Madrid Lower LAN	177	2.02T	1.52T		1200202	1997	
+	Spain	Madrid	Madrid Internet Exchange	0						
+	Spain	Madrid	Terremark NAP de las Americas - Madrid	2					Oct 2004	
+	Spain	Madrid	DE-CIX Madrid	229	1.51T	1.13T		1065422	1 Jun 2016	
+	Spain	Madrid	Equinix Internet Exchange Madrid	13	1.94G	518M			2018	
+	Spain	Madrid	IXPlay Global Peers	62						
+	Spain	Madrid	ESpanix Madrid Upper LAN	56						
+	Spain	Malaga	Startnix IXPlay Peers	0				384122	2019	
+	Spain	Santiago de Compostela	Punto Neutro de Intercambio de Tráfico de Internet en Galicia	0					19 Jul 2002	
+	Spain	Valencia	Neutral Internet Exchange Valencia	22	20.7G	10G			2009	
+Asia-Pacific (301)	Sri Lanka	Colombo	Singapore Telecom Internet Exchange	0						
+	Sri Lanka	Colombo	Sri Lanka Internet Exchange	3				450	1 Jul 2001	
+	Sri Lanka	Colombo	Colocix Internet Exchange	7					2012	
+Africa (96)	Sudan	Khartoum	Sudan Internet Exchange Point	7	16.4M			353	Oct 2011	
+Latin America (176)	Suriname	Paramaribo	Suriname Internet Exchange	8	49.4M	36.2M	50%	648	2019	
+Africa (96)	Swaziland	Mbabane	Swaziland Internet Exchange	0					Jun 2004	
+	Swaziland	Mbabane	Mbabane Internet Exchange	0					10 Apr 2014	
+Europe (448)	Sweden	Gävle	Gästrikland-Hälsingland Regional Internet Exchange	0						
+	Sweden	Gävle	Gävle Internet Exchange	0					2019	
+	Sweden	Gothenburg	Netnod Gothenburg	13	18.2G	8.91G			1998	
+	Sweden	Gothenburg	Gothenburg Internet Exchange	15					21 Dec 2005	
+	Sweden	Gothenburg	STHIX - Gothenburg	22	1.23G	582M				
+	Sweden	Gothenburg	Sweden Open Network Internet eXchange Gothenburg	81						
+	Sweden	Linköping	Linkoping municipal exchange	0						
+	Sweden	Luleå	PolarIX	0					Sep 2002	
+	Sweden	Luleå	Netnod Luleå	6	10.4M	2.52M			Sep 2004	
+	Sweden	Malmö	Netnod Malmö	0					2000	
+	Sweden	Malmö	Internet exchange point of the Oresund Region	19	48M				14 Oct 2009	
+	Sweden	Malmö	Sweden Open Network Internet eXchange Malmo	81						
+	Sweden	Stockholm	Netnod Stockholm	180	1.54T	918G		849101	1997	
+	Sweden	Stockholm	SOLIX	58	90.5G	66.1G	50%		1 Dec 2001	
+	Sweden	Stockholm	Stockholm Internet Exchange	122	308G	194G			2007	
+	Sweden	Stockholm	Equinix Internet Exchange Stockholm	20	47G	24.6G			2018	
+	Sweden	Stockholm	STHIX - Stockholm	89	330G	209G				
+	Sweden	Stockholm	Sweden Internet Exchange (KeFF-IX)	22	134G	87G				
+	Sweden	Stockholm	Sweden Open Network Internet eXchange Stockholm	97						
+	Sweden	Sundsvall	Netnod Sundsvall- Gävle	8	29.1G	743M			2000	
+	Sweden	Sundsvall	STHIX - Sundsvall	3	63.7M	8.11M			Feb 2020	
+	Sweden	Umeå	NorrNod	7	743M	160M			1996	
+	Sweden	Umeå	STHIX - Umeå	5	330G	209G	100%			
+	Switzerland	Geneva	CERN IXP / Equinix Internet Exchange Geneva	53	27.7G	13G		1027364	1995	
+	Switzerland	Lausanne	RomandIX	9				383145	2018	
+	Switzerland	Zurich	MAE-Zurich	0						
+	Switzerland	Zurich	Swiss Internet Exchange	0						
+	Switzerland	Zurich	SwissIX	252	966G	739G	100%	1179034	9 Mar 2001	
+	Switzerland	Zurich	Telehouse Internet Exchange	0					1999	
+	Switzerland	Zurich	Equinix Internet Exchange Zurich	44	22.1G	13.9G		1042779	1999	
+	Switzerland	Zurich	Global Internet Exchange & Peering Network	0						
+	Switzerland	Zurich	CH Swiss Internet Exchange	68	4.65G	1.8G		679395	2018	
+	Switzerland	Zurich	4b42 Internet Exchange Point	262				724	2018	
+	Switzerland	Zurich	Securebit Internet Exchange Zurich	156				1234	2018	
+	Switzerland	Zurich	Community-IX.ch	6						
+	Switzerland	Zurich	FogIXP	209				133597	23 Feb 2022	
+	Syria	Damascus	Syrian Internet Exchange Point	0						
+Asia-Pacific (301)	Taiwan	Taipei	Taipei Internet Exchange (TPIX)	151	557G	280G		785773	2 Jul 2002	
+	Taiwan	Taipei	Taiwan Internet Exchange	26	333G	111G		35830	Dec 1997	
+	Taiwan	Taipei	Taiwan Network Access Point	16	1G				2001	
+	Taiwan	Taipei	Poema IX	69					1 Dec 2022	
+	Taiwan	Taipei	TaipeiGigaPoP	0						
+	Taiwan	Taipei	Student & Technology United Internet Exchanges	124	195G	131G		842806	15 Jan 2021	
+	Tajikistan	Dushanbe	Tajik Internet Exchange Point	0					2005	
+	Tajikistan	Dushanbe	TojikTelecom - IXP	11	60G				2025	
+Africa (96)	Tanzania	Arusha	Arusha Internet eXchange Point	16	100M			4183	26 Jun 2006	
+	Tanzania	Dar es Salaam	TIX Tanzania - Dar es Salaam	37	115G	80.2G		16334	Jul 2003	
+	Tanzania	Dodoma	Dodoma Internet Exchange Point	8	3K	2K		205	1 Jan 2018	
+	Tanzania	Mwanza	Mwanza Internet Exchange Point	12	20M	2.42M			1 Jun 2016	
+	Tanzania	Zanzibar	Zanzibar Internet Exchange Point	6	139G	84G			28 May 2018	
+Asia-Pacific (301)	Thailand	Bangkok	Thailand IX	72					Sep 1997	
+	Thailand	Bangkok	BGP.Exchange - Bangkok	10					1997	
+	Thailand	Bangkok	ThaiSarn Public Internet Exchange	0						
+	Thailand	Bangkok	TOT NIX	0					Jun 2007	
+	Thailand	Bangkok	True International Gateway NIX	38	1.67T	1T			Jul 2007	
+	Thailand	Bangkok	Super Broadband Network IX	0					Oct 2009	
+	Thailand	Bangkok	JASTEL IX	19	281G	174G			Jan 2010	
+	Thailand	Bangkok	BB Connect IX	0					Jul 2012	
+	Thailand	Bangkok	Symphony IX	3					Dec 2013	
+	Thailand	Bangkok	Bangkok Neutral Internet Exchange	77	281G	181G		745441	9 Feb 2015	
+	Thailand	Bangkok	Thai-IX Bangkok by CS Loxinfo	34	72.7G	45.5G				
+	Thailand	Bangkok	BBIX Thailand	49	139G	67G		528113		
+	Thailand	Bangkok	Inter Globalization Co	0						
+	Thailand	Bangkok	AMS-IX Bangkok	17	35.8G	18G				
+	Thailand	Chiang Mai	BKNIX Chiang Mai	77	563G	363G	50%	2259	10 Sep 2020	
+	Timor-Leste	Dili	Timor-Leste Internet Exchange	3					9 Nov 2016	
+Africa (96)	Togo	Lome	Togo Internet Exchange Point	9	122M	17.7M		435	15 Jun 2017	
+Latin America (176)	Trinidad and Tobago	Barataria	Trinidad and Tobago Internet Exchange - Barataria	11				175	18 Apr 2014	
+	Trinidad and Tobago	Princes Town	Trinidad and Tobago Internet Exchange - Princes Town	10	17.4G	8.66G			31 Jan 2017	
+Africa (96)	Tunisia	Enfidha	Enfidha Internet Exchange	2				47	2013	
+	Tunisia	Tunis	Tunisian Internet Exchange Point	26	427G	351G		3631	2011	
+Europe (448)	Turkey	Edirne	TurkIX Internet Exchange	31	30.7G	15.9G				
+	Turkey	Istanbul	Turkish Internet Exchange	0					1997	
+	Turkey	Istanbul	Istanbul Internet Exchange	38	263G	185G		28	2010	
+	Turkey	Istanbul	DE-CIX Istanbul	67	533G	316G		1688295	1 Oct 2015	
+	Turkey	Istanbul	TURKISH Internet eXchange	14						
+	Turkey	Istanbul	GIBIR Internet Exchange	29						
+Asia-Pacific (301)	Tuvalu	Funafuti	Tuvalu Telecommunications Corporation	0				187		
+Africa (96)	Uganda	Kampala	Uganda Internet Exchange	35	44.2G	29G		12021	Jul 2003	
+Europe (448)	Ukraine	Donetsk 	Donetsk Internet Exchange	12	1.3G			745	23 Dec 2001	
+	Ukraine	Ivano-Frankivsk	IVANO-FRANKIVSK INTERNET EXCHANGE	0						
+	Ukraine	Kherson	Kherson Internet Exchange	14	120M	105M			2008	
+	Ukraine	Khmelnytsky	Khmelnytsky Internet exchange point	3	54.2M	604K			9 Aug 2003	
+	Ukraine	Kiev	RUDAKI-IX	27						
+	Ukraine	Kiev	GNM Internet Exchange Ukraine	60						
+	Ukraine	Kremenchuk	kremen-IX	8	5.58G	2.5G				
+	Ukraine	Kyiv	Ukrainian Internet Exchange	180	661G	459G		43962	Jul 2000	
+	Ukraine	Kyiv	Ukrtelecom Internet Exchange	0						
+	Ukraine	Kyiv	Digital Telecom Internet Exchange	140	2.39T	1.53T	0.64%		2009	
+	Ukraine	Kyiv	Giganet Internet Exchange	103	1.67T	880G		1093225	2012	
+	Ukraine	Kyiv	Serin Internet Exchange	0						
+	Ukraine	Kyiv	PITER-IX Kiev	90	56.8G	34.3G			2019	
+	Ukraine	Kyiv	1-IX UA	63						
+	Ukraine	Lviv	Lviv Internet Exchange	8					2018	
+	Ukraine	Mariupol	Meshroom IXP	7						
+	Ukraine	Odessa	Odessa Internet Exchange	25	28.7M				Sep 2007	
+	Ukraine	Zaporozhye	Zaporozhye Internet Exchange	0					2008	
+	United Arab Emirates	Abu Dhabi	Emirates Internet Exchange	0						
+	United Arab Emirates	Abu Dhabi	Gulf Internet Exchange	0						
+	United Arab Emirates	Dubai	UAE-IX by DE-CIX	108	1.14T	669G		1115235	24 Feb 2012	
+	United Arab Emirates	Fujairah	SMARTHUB Internet Exchange	39					Mar 2013	
+	United Kingdom	Birmingham	Edge Internet Exchange - Birmingham	3					2023	
+	United Kingdom	Bradford	Bradford IX	44						
+	United Kingdom	Brighton	IX Brighton	5					2015	
+	United Kingdom	Cardiff	LINX Wales	9	318M	186M			15 Oct 2014	
+	United Kingdom	Douglas	ManxIX	3					3 Jul 2020	
+	United Kingdom	Edinburgh	Scottish Internet Exchange	0					Sep 1999	
+	United Kingdom	Edinburgh	WorldIX	0					Feb 2000	
+	United Kingdom	Edinburgh	UNION IXP	0						
+	United Kingdom	Leeds	Leeds Internet Exchange	22	5G	3G		248035	20 Sep 2010	
+	United Kingdom	Liverpool	IX Liverpool	7					2016	
+	United Kingdom	London	LoNAP/XchangePoint shared interconnect	0					2004	
+	United Kingdom	London	LINX LON1	925	4.31T	3.65T		2419128	8 Nov 1994	
+	United Kingdom	London	London Internet Providers Exchange	0					Oct 2001	
+	United Kingdom	London	London Network Access Point	323	2.37T	1.53T		1447976	1998	
+	United Kingdom	London	UK6X	0						
+	United Kingdom	London	XchangePoint London IPP	166	5.3G				2001	
+	United Kingdom	London	SovEx	0						
+	United Kingdom	London	Redbus Internet Exchange	0					13 Apr 2004	
+	United Kingdom	London	EarthNAP	0					26 Feb 2007	
+	United Kingdom	London	Meridian Gate Internet Exchange	0						
+	United Kingdom	London	Equinix Internet Exchange London	66	44.2G	19.4G			2018	
+	United Kingdom	London	Unifi-IX	0						
+	United Kingdom	London	Securebit Internet Exchange London	19					Apr 2019	
+	United Kingdom	London	LINX LON2	301	620G	484G				
+	United Kingdom	Macclesfield	Edge-IX	0					2013	
+	United Kingdom	Manchester	Manchester Network Access Point	0					1997	
+	United Kingdom	Manchester	Manchester Commercial Internet Exchange	0						
+	United Kingdom	Manchester	Enlightened Internet Exchange	0					4 Jun 2005	
+	United Kingdom	Manchester	LINX Manchester	143	534G	434G		470411	29 Apr 2012	
+	United Kingdom	Manchester	Equinix Internet Exchange Manchester	22	6.15G	1.68G			2018	
+	United Kingdom	Newcastle	Newcastle Internet Exchange	12	1.55G	245M			20 Dec 2020	
+	United Kingdom	Scotland	LINX Scotland	37	13.2G	7.35G		927296	Oct 2013	
+North America (284)	United States	Albuquerque	IXNM	0					Feb 2002	
+	United States	Albuquerque	New Mexico Internet Exchange	0					2008	
+	United States	Albuquerque	Albuquerque IXP	16	6.93G	4G	50%		Mar 2021	
+	United States	Amarillo	FD-IX - Amarillo	4					Sep 2024	
+	United States	Anchorage 	Anchorage Metropolitan Access Point	0						
+	United States	Ashburn	Equinix Internet Exchange Ashburn	387	5.86T	4.5T		2106234	31 Oct 2002	
+	United States	Ashburn	Megaport IX Ashburn	48	226G	185G			4 Nov 2016	
+	United States	Ashburn	Digital Realty Ashburn Internet Exchange	16						
+	United States	Ashburn	Gig IX Ashburn	6					2019	
+	United States	Atlanta	Atlanta Internet Exchange	0				112219	Aug 2003	
+	United States	Atlanta	Atlanta NAP	0						
+	United States	Atlanta	MAE-Central	0						
+	United States	Atlanta	Equinix Internet Exchange Atlanta	28	23.4G	11.1G				
+	United States	Atlanta	South East Network Access Point	7					2012	
+	United States	Atlanta	Digital Realty Atlanta Internet Exchange	174	1.4T			912868	2007	
+	United States	Atlanta	Community IX - Atlanta	101	2.42T	1.65T			2019	
+	United States	Auburn, CA	Ninja-IX Auburn	6						
+	United States	Austin	AUSIX	0						
+	United States	Austin	Austin Metro Access Point	0						
+	United States	Austin	FD-IX - Austin	5						
+	United States	Baltimore	Baltimore-NAP	0						
+	United States	Baltimore	The Baltimore Internet Exchange	3				1	2018	
+	United States	Baltimore	DACS-IX East	12				312174		
+	United States	Bend	Central Oregon Internet eXchange	14	513M	208M		2324	Aug 2020	
+	United States	Berkeley	Calren2 North	0						
+	United States	Berkeley	6TAP	0						
+	United States	Billings	Yellowstone Regional Internet Exchange	8					2003	
+	United States	Boise	Idaho Internet Exchange	5					1 Jan 2023	
+	United States	Boston	Boston Metropolitan Exchange Point	0						
+	United States	Boston	Equinix Internet Exchange Boston	0					20 Jul 2000	
+	United States	Boston	Massachusetts Internet Exchange	72	110G	68G		743737	14 May 2015	
+	United States	Boston	Boston Internet Exchange	88				163951	9 Apr 2012	
+	United States	Boston	Coresite - Any2 Boston	5					2013	
+	United States	Brookings	The South Coast Access Exchange	2	2.04G	980M	50%		8 Nov 2023	
+	United States	Buffalo	Buffalo Niagara International Internet Exchange	8					May 2011	
+	United States	Carrollton	CyrusOne	3					2011	
+	United States	Charlotte	Ninja-IX Charlotte	3	8K	6K			Oct 2018	
+	United States	Cheyenne	Big Horn Fiber	12					2013	
+	United States	Chicago	Ameritech Advanced Data Services Network Access Point	0						
+	United States	Chicago	Equinix Internet Exchange Chicago	278	4.58T	3.12T		1057538	4 Mar 2002	
+	United States	Chicago	MAE-Chicago	0						
+	United States	Chicago	PacBell ATM Exchange	0						
+	United States	Chicago	STAR TAP	0					1998	
+	United States	Chicago	StarLight	15					Mar 2001	
+	United States	Chicago	Chicago Internet Exchange	0				142	11 Apr 2008	
+	United States	Chicago	CoreSite - Any2 Chicago	22	5G				Jan 2008	
+	United States	Chicago	Greater Chicago International Internet Exchange	2					Dec 2012	
+	United States	Chicago	AMS-IX Chicago	2	75.9G	22.6G		204	7 Oct 2014	
+	United States	Chicago	United IX Chicago	69	255G	171G		390735	2014	
+	United States	Chicago	Digital Realty Chicago Internet Exchange	11						
+	United States	Chicago	DACS-IX Central	6						
+	United States	Chicago	FD-IX - Chicago	4					2022	
+	United States	Chicago	Open Pipes	0						
+	United States	Chicago 	DE-CIX Chicago 	78	672G	250G		577189		
+	United States	Cleveland	FD-IX - Cleveland	6					2019	
+	United States	Colchester	VermontIX	0						
+	United States	Columbus	CMH-IX	0						
+	United States	Columbus	Columbus Internet Exchange	0						
+	United States	Columbus	FiberNAP	0						
+	United States	Columbus	Ohio IX	55	746G	479G	50%	957550		
+	United States	Columbus	North East Ohio Internet Exchange	7	67.8M			559		
+	United States	Dallas	Dallas/Fort Worth Metropolitan Access Point	0						
+	United States	Dallas	Equinix Internet Exchange Dallas	225	3.46T	1.97T		1024050	15 Jun 2001	
+	United States	Dallas	Excel Telecom NAP	0						
+	United States	Dallas	MAE Central	0						
+	United States	Dallas	MAE-Dallas	0						
+	United States	Dallas	Equinix-Dallas(former PAIX)	0					24 Feb 2002	
+	United States	Dallas	Digital Realty Dallas Internet Exchange	20	2.6G			940017	2007	
+	United States	Dallas	DE-CIX Dallas	172	1.75T	954G		1176051	15 Nov 2016	
+	United States	Dallas	Megaport Dallas	30	33.8G	26G				
+	United States	Dallas	Ninja-IX Dallas	7	15G	9.5G			Oct 2018	
+	United States	Davenport	Quad Cities Internet Exchange	67	360G	214G		1425486	11 Jan 2020	
+	United States	Dayton	Dayton Metro Internet Exchange	0					24 Jun 2003	
+	United States	Denver	Denver Internet Exchange	0						
+	United States	Denver	Mountain Area Exchange	0						
+	United States	Denver	Equinix Internet Exchange Denver	4	2.51M	14K				
+	United States	Denver	Coresite - Any2 Denver	88					2013	
+	United States	Denver	Interconnection eXchange Denver	93	780G	500G		779752	2015	
+	United States	Denver	Denver Internet Exchange	4	3K	3K			25 Mar 2021	
+	United States	Des Moines	DesMoines Internet eXchange	11					Sep 2021	
+	United States	Detroit	Detroit Internet Exchange	102	2.2T	1.8T		617456	31 Mar 2015	
+	United States	Duluth	Twin Ports Internet Exchange	2					1 Nov 2012	
+	United States	Eugene	Oregon Internet Exchange	4						
+	United States	Eugene	Willamette Internet Exchange	13	1.33G	459M			Dec 2018	
+	United States	Florida	Coresite - Any2 Florida	3					2013	
+	United States	Fremont	Fremont Cabal Internet Exchange	182	6.1G	4G			Apr 2018	
+	United States	Fremont	Experimental Virtual Internet Exchange	102					2018	
+	United States	Fremont	DACS-IX West	6				174	1 Mar 2021	
+	United States	Fremont	Amateur Radio Internet Exchange	21						
+	United States	Fremont	Lambda Internet Exchange	26					1 Sep 2021	
+	United States	Fremont	Ninja-IX Bay Area	4	745K	7K				
+	United States	Fremont	Securebit Internet Exchange Fremont	35					2022	
+	United States	Grand Rapids	Grand Rapids Internet Exchange	8						
+	United States	Guam	Guam Internet Exchange	5	1G				2011	
+	United States	Helena	Northwest Internet Exchange	0					Feb 2006	
+	United States	Honolulu	Hawaii Internet Exchange	8				1130	Jul 1995	
+	United States	Honolulu	DRFxchange	13					8 Jan 2007	
+	United States	Honolulu	Ninja-IX Aloha	3					Oct 2016	
+	United States	Houston	Houston Network Access Point	0					2010	
+	United States	Houston	Houston MAGIE	0						
+	United States	Houston	Houston Metropolitan Access Point	0						
+	United States	Houston	MAE-Houston	0						
+	United States	Houston	Rice EduPOP	0					10 May 2001	
+	United States	Houston	Southeast Texas GigaPOP	11					1997	
+	United States	Houston	TexasSEGP	0						
+	United States	Houston	Ninja-IX Houston	3					Jul 2017	
+	United States	Houston	Equinix Internet Exchange Houston	1						
+	United States	Houston	FD-IX - Houston	7					Sep 2024	
+	United States	Indianapolis	Indianapolis Data Exchange	0						
+	United States	Indianapolis	FD-IX - Indianapolis	44	28G			146149	2015	
+	United States	Indianapolis	Indianapolis Internet Exchange	8	2.87G	1.23G	50%		1 Apr 2025	
+	United States	Jacksonville	Jacksonville Internet Exchange	15				637928	2 Jan 2012	
+	United States	Kansas City	Kansas City Internet Exchange	72	700G			783069	2006	
+	United States	Las Vegas	Megaport Las Vegas	5	7.47G	5.73G				
+	United States	Las Vegas	Ninja-IX Las Vegas	7	60G	47G			Oct 2016	
+	United States	Los Angeles	6IIX	0						
+	United States	Los Angeles	Calren2 South	0						
+	United States	Los Angeles	Equinix Internet Exchange Los Angeles	80	749G	477G				
+	United States	Los Angeles	Los Angeles International Internet Exchange	32	9.2G			117076	1996	
+	United States	Los Angeles	MAE-LA	0						
+	United States	Los Angeles	Pac Bell Los Angeles Network Access Point	0						
+	United States	Los Angeles	Equinix-LA(former Paix)	0						
+	United States	Los Angeles	Pihana Los Angeles	0						
+	United States	Los Angeles	Any2 California	320				1287803	Dec 2005	
+	United States	Los Angeles	Equinix Los Angeles IBX	72				1104195	11 Jul 2002	
+	United States	Los Angeles	CENIC International Internet eXchange	6					1996	
+	United States	Los Angeles	Megaport IX Los Angeles	31	24G	19G		139	4 Nov 2016	
+	United States	Los Angeles	Coresite - Any2 West	344						
+	United States	Louisville	Louisville NAP	0						
+	United States	Madison	Madison Internet Exchange	32					2000	
+	United States	Marina del Rey	ISI DMZ/Gigapop	0						
+	United States	McAllen	MEX-IX McAllen	18	479G				Oct 2017	
+	United States	Medford	Southern Oregon Access Exchange	5						
+	United States	Miami	BellSouth Multimedia Internet Exchange	0						
+	United States	Miami	AMPATH - Florida International University/CIARA	0					2006	
+	United States	Miami	NAP of the Americas	87	250G			619952	12 Aug 2004	
+	United States	Miami	Equinix Internet Exchange Miami	175	2.2T	1.44T		1363076	3 Dec 2012	
+	United States	Miami	FL-IX - The Florida Internet Exchange / Community IX - Florida	201	6.85T	5.01T	50%	1371699	2015	
+	United States	Milwaukee	Milwaukee Internet Exchange	7	2.8G			696	2011	
+	United States	Minneapolis	Northern Lights GigaPoP	0					2000	
+	United States	Minneapolis	Midwest Internet Cooperative Exchange	151	1.85T	1.26T		1035516	11 Jan 2011	
+	United States	Missoula	Northwest Internet Exchange	0					15 Dec 2004	
+	United States	Moffett Field	AMES-MIX	0						
+	United States	Moffett Field	MAE-West	0						
+	United States	Moffett Field	NGIX-West	0					1998	
+	United States	Montgomery	Montgomery Internet Exchange	25				96	Jan 2016	
+	United States	Mount Pleasant	Central Michigan Internet Exchange	12					2024	
+	United States	Nashville	Nashville City Net	0						
+	United States	Nashville	Nashville NAP	0						
+	United States	Nashville	FD-IX - Nashville	0						
+	United States	New Jersey	MAGPI Gigapop	0					2006	
+	United States	New York	6IIX	0						
+	United States	New York	Equinix New York IBX	66					11 Mar 2003	
+	United States	New York	MAE-NY	0						
+	United States	New York	MetroIX	0						
+	United States	New York	New York International Internet Exchange	187	2.69T	1.93T		171	1996	
+	United States	New York	Big Apple Peering Exchange	14					2001	
+	United States	New York	NY-RIX	0						
+	United States	New York	Equinix Internet Exchange New York	98	1.27T	835G		1043064	14 Mar 2000	
+	United States	New York	Peer 1 Internet Exchange	0					9 Jan 2004	
+	United States	New York	Digital Realty New York Internet Exchange	74	235G			562087	2009	
+	United States	New York	Coresite - Any2 New York	8					2013	
+	United States	New York	DE-CIX New York	278	1.93T	1.38T		1495217	2013	
+	United States	New York	AMS-IX New York	0				158	17 Apr 2014	
+	United States	New York	DACS-IX North	3						
+	United States	Norfolk	Ninja-IX Norfolk	3						
+	United States	North Kansas City	Great Plains Connect	25	1.5G	1G			1 Feb 2023	
+	United States	Northern Virginia	Community IX - Northern Virginia	20	860G	644G	50%		2014	
+	United States	Oklahoma	Internet Exchange Oklahoma City	26	18.1G	12.2G				
+	United States	Omaha	OmahaIX	47	519G	331G			Jan 2014	
+	United States	Orlando	Central Florida Internet Exchange	5					2019	
+	United States	Orlando	DACS-IX South	4						
+	United States	Paducah	Paducah Internet Exchange	18	130M	73M		353055		
+	United States	Palo Alto	Equinix Internet Exchange Palo Alto	76	197G	123G		2374663	Dec 1994	
+	United States	Pennsauken	Sprint NAP	0						
+	United States	Philadelphia	Equinix-Philly(former Paix)	0						
+	United States	Philadelphia	The Philadelphia Internet Exchange	0					Jan 2013	
+	United States	Philadelphia	Philadelphia Internet Exchange	0						
+	United States	Philadelphia	Philadelphia Internet Exchange	31	116G	66.7G			May 2018	
+	United States	Phoenix	PhoenixNAP	0						
+	United States	Phoenix	Phoenix Internet Exchange	0						
+	United States	Phoenix	Digital Realty Phoenix Internet Exchange	8	1.55G			175670	2 Jun 2008	
+	United States	Phoenix	Arizona Internet Exchange	0					2011	
+	United States	Phoenix	Ninja-IX Phoenix	59	600G	414G		203797	1 Sep 2012	
+	United States	Phoenix	48 IX	5	46.5M	21.3M			2020	
+	United States	Phoenix	DE-CIX Phoenix	37	92.8G	67.6G		529793		
+	United States	Pittsburgh	Three Rivers Optical Exchange	0					29 May 2012	
+	United States	Pittsburgh	Pittsburgh Exchange Point	0						
+	United States	Pittsburgh	Pittsburgh Internet Exchange	45	861G	373G	50%	726672	1 Oct 2017	
+	United States	Portland	Northwest Access Exchange	104	439G	331G		879074	Dec 2002	
+	United States	Portland, ME	MaineXchangePoint	0						
+	United States	Portland, ME	Northern New England Neutral Internet Exchange	10	23.3G	11.8G	50%	990191	2017	
+	United States	Raleigh	Ninja-IX Raleigh	2						
+	United States	Reno	Tahoe Internet Exchange	16	2G	1.2G		990816	12 Sep 2014	
+	United States	Reston	LINX NoVa	48	137G	125G		51566	Mar 2014	
+	United States	Reston	Coresite - Any2 East	63					2013	
+	United States	Richardson	North Texas GigaPOP	0					20 Aug 2004	
+	United States	Richmond	DE-CIX Richmond	22	17.8G	4.72G		658729	15 Feb 2015	
+	United States	Richmond	Ninja-IX Richmond	8	25.4G	9.95G			Jul 2017	
+	United States	Sacramento	Ninja-IX Sacramento	7	600M	298M			Jul 2017	
+	United States	Salt Lake City	Utah Regional Exchange Point	0					23 Apr 1996	
+	United States	Salt Lake City	Salt Lake Internet Exchange	39	501G	358G	50%	953693	1 Jan 2014	
+	United States	Salt Lake City	Mountain West Internet Exchange	0						
+	United States	San Antonio	San Antonio Metro Access Point	0						
+	United States	San Antonio	San Antonio Internet Exchange	4					2019	
+	United States	San Diego	Equinix-SD(former Paix)	0						
+	United States	San Diego	San Diego Network Access Point	0					Feb 1998	
+	United States	San Francisco	Equinix San Francisco	0					Jul 2001	
+	United States	San Francisco	PB-NAP	0						
+	United States	San Francisco	San Francisco Metropolitan Internet Exchange	95	100G			765420	May 2006	
+	United States	San Francisco	AMS-IX Bay Area	2	3.5G	1.96G	6.63%	68	10 Sep 2014	
+	United States	San Jose	Equinix Internet Exchange San Jose (Bay Area)	193	701G	530G			25 May 2000	
+	United States	San Jose	MAE-West-ATM	0						
+	United States	San Jose	KDWEB Exchange	0						
+	United States	San Jose	Coresite - Any 2 Northern California	24					2013	
+	United States	Santa Clara	6IIX	0					2001	
+	United States	Seattle	NIX	0						
+	United States	Seattle	NWnet Gigapop	0						
+	United States	Seattle	Equinix Internet Exchange Seattle	43	130G	54.2G		157	13 Mar 2000	
+	United States	Seattle	Seattle Internet Exchange	271	3.05T	2.2T		1531828	20 Jun 1997	
+	United States	Seattle	Pacific Wave International Peering Exchange	0					1996	
+	United States	Seattle	Megaport IX Seattle	16	4.38G	3G		157	Sep 2015	
+	United States	Secaucus	Equinix IBX Secaucus	64					14 Mar 2000	
+	United States	Spokane	Eastern Washington Internet Exchange	0						
+	United States	St. George	Southern Utah Peering Regional Network	24				1232	May 2006	
+	United States	St. Louis	St. Louis Internet Access Consortium	0						
+	United States	St. Louis	MidWest-IX - St. Louis	18	5.3G			476653	19 Jan 2017	
+	United States	St. Louis	StLouisNAP	0						
+	United States	St. Louis	StLouIX	0						
+	United States	St. Louis	Saint Louis Internet Exchange	107	80G	45G			2019	
+	United States	St. Louis	FD-IX - St. Louis	13					2025	
+	United States	Takoma Park	Andrew's Basement Exchange	0						
+	United States	Tampa	Tampa Internet Exchange	0					16 May 2005	
+	United States	Tampa	Tampa Internet Exchange	12	3.4G			749586	5 Oct 2015	
+	United States	Tucson	Tucson Interconnect	0						
+	United States	Tucson	Tucson Network Access Point	0						
+	United States	Tucson	Tucson Internet Exchange	7					Jan 2023	
+	United States	Utah	Mountain West Internet Exchange	0						
+	United States	Vienna	Equinix-VA	5					10 Sep 2001	
+	United States	Washington DC	MAE-East	0					Dec 1993	
+	United States	Washington DC	MAE-East-ATM	0					Jul 1998	
+	United States	Washington DC	NeutralNAP	0						
+Asia-Pacific (301)	Uzbekistan	Tashkent	Uzbekistan Internet Exchange	66	65.1G	42.3G			24 Dec 2004	
+	Uzbekistan	Tashkent	ITI-IX	5						
+	Uzbekistan	Tashkent	Science Network Solution IX	23	801G			325	22 Sep 2017	
+	Vanuatu	Port Vila	Vanuatu Internet Exchange	10	2.42M	190K		2	14 Feb 2013	
+Latin America (176)	Venezuela	Caracas	NAP VE Caracas	15	164G	92.7G	50%	4605	9 Sep 2024	
+	Venezuela	Maracaibo	NAPVEN Maracaibo	18	52.4G	34.9G			2024	
+	Venezuela	Valencia	NAPVEN Valencia	12	36.1G	26.2G				
+Asia-Pacific (301)	Viet Nam	Da Nang	Vietnam National Internet Exchange	2					Jul 2005	
+	Viet Nam	Hanoi	Vietnam National Internet Exchange	12					8 Nov 2003	
+	Viet Nam	Ho Chi Minh	Vietnam National Internet Exchange	16					Mar 2004	
+Africa (96)	Zambia	Lusaka	Zambia Internet Exchange Point	13	103M				Feb 2006	
+	Zambia	Lusaka	Lusaka Internet Exchange Point	21	2.67G	2.23G	50%	4490	1 Sep 2023	
+	Zimbabwe	Harare	Zimbabwe Internet Exchange	0					Jul 2001	
+	Zimbabwe	Harare	Harare Internet Exchange Point	10	47M	25.7M		345	7 Nov 2017	

@@ -1,0 +1,13 @@
+{
+  "uecfVersion": "1.0",
+  "component": "dataset-pch",
+  "version": "1.0.0",
+  "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND LicenseRef-PCH-Terms",
+  "implementationLicense": "LicenseRef-PCH-Terms",
+  "sourceUrl": "https://www.pch.net/",
+  "declarations": {
+    "prohibitedUse": false,
+    "nonDiscrimination": true,
+    "dsaNoticeAndAction": "https://www.pch.net/about/contact"
+  }
+}

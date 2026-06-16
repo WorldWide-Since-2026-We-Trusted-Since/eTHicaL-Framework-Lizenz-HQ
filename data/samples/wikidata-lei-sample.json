@@ -1,0 +1,25 @@
+{
+  "head": {
+    "vars": ["item", "itemLabel", "lei"]
+  },
+  "_uecf_note": "Representative dump fallback for the Wikidata SPARQL client (entities with a GLEIF LEI, property P1278). Replaced by a live slice when the endpoint is reachable. Data from Wikidata, CC0-1.0.",
+  "results": {
+    "bindings": [
+      {
+        "item": {"type": "uri", "value": "http://www.wikidata.org/entity/Q8901"},
+        "itemLabel": {"type": "literal", "value": "European Central Bank"},
+        "lei": {"type": "literal", "value": "529900T8BM49AURSDO55"}
+      },
+      {
+        "item": {"type": "uri", "value": "http://www.wikidata.org/entity/Q623578"},
+        "itemLabel": {"type": "literal", "value": "Norges Bank"},
+        "lei": {"type": "literal", "value": "549300O6E2WAUNUNL455"}
+      },
+      {
+        "item": {"type": "uri", "value": "http://www.wikidata.org/entity/Q740308"},
+        "itemLabel": {"type": "literal", "value": "International Bank for Reconstruction and Development"},
+        "lei": {"type": "literal", "value": "ZTKLP1FQDU73AAW2YV09"}
+      }
+    ]
+  }
+}

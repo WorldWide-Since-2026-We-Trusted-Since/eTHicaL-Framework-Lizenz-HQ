@@ -1,0 +1,13 @@
+{
+  "uecfVersion": "1.0",
+  "component": "dataset-omnibor",
+  "version": "1.0.0",
+  "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC-BY-4.0",
+  "implementationLicense": "CC-BY-4.0",
+  "sourceUrl": "https://omnibor.io/",
+  "declarations": {
+    "prohibitedUse": false,
+    "nonDiscrimination": true,
+    "dsaNoticeAndAction": "https://github.com/omnibor/spec/issues"
+  }
+}

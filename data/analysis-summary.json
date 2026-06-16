@@ -1,0 +1,143 @@
+{
+  "ixp_table": {
+    "total_ixps": 1305,
+    "countries": 182,
+    "by_region": {
+      "Europe": 448,
+      "Asia-Pacific": 301,
+      "North America": 284,
+      "Latin America": 176,
+      "Africa": 96
+    },
+    "with_ipv6_figure": 48,
+    "with_participants": 1305,
+    "top_by_participants": [
+      {
+        "name": "OpenIXP Internet exchange Point",
+        "country": "Indonesia",
+        "participants": 1978
+      },
+      {
+        "name": "IX.br (PTT.br) São Paulo",
+        "country": "Brazil",
+        "participants": 1853
+      },
+      {
+        "name": "DE-CIX Frankfurt",
+        "country": "Germany",
+        "participants": 1080
+      },
+      {
+        "name": "LINX LON1",
+        "country": "United Kingdom",
+        "participants": 925
+      },
+      {
+        "name": "AMS-IX Amsterdam",
+        "country": "Netherlands",
+        "participants": 909
+      },
+      {
+        "name": "Indonesian Internet Exchange",
+        "country": "Indonesia",
+        "participants": 896
+      },
+      {
+        "name": "Jakarta Internet Exchange",
+        "country": "Indonesia",
+        "participants": 833
+      },
+      {
+        "name": "NAPAfrica Cape Town",
+        "country": "South Africa",
+        "participants": 685
+      },
+      {
+        "name": "Neutral Internet Exchange",
+        "country": "Netherlands",
+        "participants": 663
+      },
+      {
+        "name": "NAPAfrica Durban",
+        "country": "South Africa",
+        "participants": 591
+      }
+    ]
+  },
+  "peeringdb": {
+    "status": "skipped (offline)"
+  },
+  "pch_live": {
+    "status": "skipped (offline)"
+  },
+  "caida": {
+    "status": "skipped (offline)"
+  },
+  "gleif": {
+    "status": "skipped (offline)"
+  },
+  "osm": {
+    "status": "skipped (offline)"
+  },
+  "wikidata": {
+    "status": "skipped (offline)"
+  },
+  "manifests": [
+    "implementation/dataset-peeringdb.json",
+    "implementation/dataset-pch.json",
+    "implementation/dataset-caida.json",
+    "implementation/dataset-gleif.json",
+    "implementation/dataset-osm.json",
+    "implementation/dataset-wikidata.json",
+    "implementation/dataset-spdx-license-list.json",
+    "implementation/dataset-purl.json",
+    "implementation/dataset-omnibor.json"
+  ],
+  "license_bindings": [
+    {
+      "source": "PeeringDB",
+      "kind": "dataset",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC-BY-4.0"
+    },
+    {
+      "source": "Packet Clearing House (IXP Directory)",
+      "kind": "dataset",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND LicenseRef-PCH-Terms"
+    },
+    {
+      "source": "CAIDA Resource Catalog",
+      "kind": "dataset",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND LicenseRef-CAIDA-AUP"
+    },
+    {
+      "source": "GLEIF Legal Entity Identifier (LEI) index",
+      "kind": "dataset",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC0-1.0"
+    },
+    {
+      "source": "OpenStreetMap (Overpass API)",
+      "kind": "dataset",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND ODbL-1.0"
+    },
+    {
+      "source": "Wikidata",
+      "kind": "dataset",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC0-1.0"
+    },
+    {
+      "source": "SPDX License List Data",
+      "kind": "standard",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC0-1.0"
+    },
+    {
+      "source": "Package URL (purl) specification",
+      "kind": "standard",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND MIT"
+    },
+    {
+      "source": "OmniBOR specification",
+      "kind": "standard",
+      "spdxExpression": "LicenseRef-UECF-Headquarter-1.0 AND CC-BY-4.0"
+    }
+  ]
+}
